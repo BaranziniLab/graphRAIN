@@ -1,10 +1,9 @@
-import os
 import networkx as nx
 import pandas as pd
 import numpy as np
 import joblib
 from tqdm import tqdm
-from .paths import EDGE_PATH,GRAPH_PATH
+
 
 
 def read_edge_data(edge_path):
@@ -20,13 +19,12 @@ def read_edge_data(edge_path):
     edge_df_ = pd.merge(edge_df_, edge_df, on=["source", "target"]).drop_duplicates(subset=["source", "target"])
     return edge_df_
 
-def create_graph():
-    edge_df_ = read_edge_data(EDGE_PATH)
-    print('Initiating networkx graph instance ...')
+def create_graph(edge_path, graph_path):
+    edge_df_ = read_edge_data(edge_path)
+    print('Initiating graph instance ...')
     graph = nx.Graph()
-    print('Adding edges to the networkx graph instance ...')
+    print('Adding edges to graph ...')
     for index, row in tqdm(edge_df_.iterrows()):
         graph.add_edge(row['source'], row['target'], edge_type=row["edge_type"])  
-    print('Saving networkx graph instance ...')
-    joblib.dump(graph, GRAPH_PATH)
-
+    print('Saving graph ...')
+    joblib.dump(graph, graph_path)

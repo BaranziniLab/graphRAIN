@@ -14,3 +14,7 @@ GRAPH_NAME = output_data_path_dict["graph_name"]
 GRAPH_PATH = os.path.join(SAVE_DIRECTORY, GRAPH_NAME+".joblib")
 
 
+__all__ = [
+    "EDGE_PATH",
+    "GRAPH_PATH"
+]
