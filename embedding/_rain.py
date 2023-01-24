@@ -1,6 +1,6 @@
 import os
 import joblib
-from .utility import read_edge_data, create_graph
+from ._utility import read_edge_data, create_graph
 
 
 

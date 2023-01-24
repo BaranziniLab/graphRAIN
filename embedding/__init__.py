@@ -1,5 +1,5 @@
 
-from .rain import RAIN
+from ._rain import RAIN
 
 
 
