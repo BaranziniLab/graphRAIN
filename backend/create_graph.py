@@ -8,7 +8,8 @@ from .paths import EDGE_PATH,GRAPH_PATH
 
 
 def read_edge_data(edge_path):
-    edge_df = pd.read_csv(edge_path, sep='\t', names=['source', 'edge_type', 'target']).drop_duplicates()
+    edge_df = pd.read_csv(edge_path, sep='\t').drop_duplicates()
+    edge_df = edge_df[["source", "edge_type", "target"]]
     edge_df.source = edge_df.source.astype(str)
     edge_df.target = edge_df.target.astype(str)
     edge_df_ = edge_df.copy()
