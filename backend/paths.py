@@ -1,7 +1,7 @@
 from configparser import ConfigParser
 import os
 
-config_path = os.path.join(os.path.dirname(os.getcwd()), 'config.ini')
+config_path = 'config.ini'
 parser = ConfigParser()
 parser.read([config_path])
 

@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import joblib
 from tqdm import tqdm
-from paths import EDGE_PATH,GRAPH_PATH
+from .paths import EDGE_PATH,GRAPH_PATH
 
 
 def read_edge_data(edge_path):
