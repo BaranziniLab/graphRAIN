@@ -9,8 +9,9 @@ Usage:
     python3 run_rain.py <ncores>
 '''
 
+from embedding import RAIN
 from metadata import EDGE_PATH, GRAPH_PATH
-from embedding import RAIN 
+ 
 
 
 def main():
