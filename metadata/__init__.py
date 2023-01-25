@@ -12,9 +12,12 @@ output_data_path_dict = dict(parser.items("OUTPUT_DATA"))
 SAVE_DIRECTORY = output_data_path_dict["save_directory"]
 GRAPH_NAME = output_data_path_dict["graph_name"]
 GRAPH_PATH = os.path.join(SAVE_DIRECTORY, GRAPH_NAME+".joblib")
+NBATCH = int(output_data_path_dict["nbatch"])
 
 
 __all__ = [
     "EDGE_PATH",
-    "GRAPH_PATH"
+    "GRAPH_PATH",
+    "SAVE_DIRECTORY",
+    "NBATCH"
 ]
