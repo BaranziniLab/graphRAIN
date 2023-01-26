@@ -1,4 +1,5 @@
-
+sample_data/
+config.ini
 __pycache__/
 backend/__pycache__
 venv/
