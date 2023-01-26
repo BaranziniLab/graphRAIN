@@ -2,7 +2,6 @@
 __pycache__/
 backend/__pycache__
 venv/
-sample_data/
 .ipynb_checkpoints
 backend/.ipynb_checkpoints
 metadata/__pycache__

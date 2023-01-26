@@ -1,0 +1,2809 @@
+Node	Node_Name	Node_Type
+D000006	Abdomen, Acute	Symptom
+D000067329	Obesity, Metabolically Benign	Symptom
+D000068376	Compassion Fatigue	Symptom
+D000070607	Morton Neuroma	Symptom
+D000071057	Tardive Dyskinesia	Symptom
+D000071699	Bilateral Vestibulopathy	Symptom
+D000071896	Medically Unexplained Symptoms	Symptom
+D000072716	Cancer Pain	Symptom
+D000073923	Food Intolerance	Symptom
+D000075562	Charles Bonnet Syndrome	Symptom
+D000076042	Alcoholic Korsakoff Syndrome	Symptom
+D000076082	Travel-Related Illness	Symptom
+D000078064	Gestational Weight Gain	Symptom
+D000334	Aerophagy	Symptom
+D000370	Ageusia	Symptom
+D000377	Agnosia	Symptom
+D000381	Agraphia	Symptom
+D000419	Albuminuria	Symptom
+D000550	Amblyopia	Symptom
+D000647	Amnesia	Symptom
+D000648	Amnesia, Retrograde	Symptom
+D000787	Angina Pectoris	Symptom
+D000788	Angina Pectoris, Variant	Symptom
+D000789	Angina, Unstable	Symptom
+D000849	Anomia	Symptom
+D000855	Anorexia	Symptom
+D000857	Olfaction Disorders	Symptom
+D000860	Hypoxia	Symptom
+D001037	Aphasia	Symptom
+D001039	Aphasia, Broca	Symptom
+D001041	Aphasia, Wernicke	Symptom
+D001044	Aphonia	Symptom
+D001049	Apnea	Symptom
+D001072	Apraxias	Symptom
+D001184	Articulation Disorders	Symptom
+D001247	Asthenia	Symptom
+D001259	Ataxia	Symptom
+D001264	Athetosis	Symptom
+D001308	Auditory Perceptual Disorders	Symptom
+D001416	Back Pain	Symptom
+D001724	Birth Weight	Symptom
+D001750	Urinary Bladder, Neurogenic	Symptom
+D001766	Blindness	Symptom
+D001835	Body Weight	Symptom
+D002032	Bulimia	Symptom
+D002100	Cachexia	Symptom
+D002303	Cardiac Output, Low	Symptom
+D002375	Catalepsy	Symptom
+D002389	Catatonia	Symptom
+D002524	Cerebellar Ataxia	Symptom
+D002558	Cerebrospinal Fluid Otorrhea	Symptom
+D002559	Cerebrospinal Fluid Rhinorrhea	Symptom
+D002637	Chest Pain	Symptom
+D002639	Cheyne-Stokes Respiration	Symptom
+D002819	Chorea	Symptom
+D003117	Color Vision Defects	Symptom
+D003128	Coma	Symptom
+D003147	Communication Disorders	Symptom
+D003221	Confusion	Symptom
+D003244	Consciousness Disorders	Symptom
+D003248	Constipation	Symptom
+D003294	Seizures, Febrile	Symptom
+D003371	Cough	Symptom
+D003490	Cyanosis	Symptom
+D003638	Deafness	Symptom
+D003639	Hearing Loss, Sudden	Symptom
+D003655	Decerebrate State	Symptom
+D003693	Delirium	Symptom
+D003967	Diarrhea	Symptom
+D003968	Diarrhea, Infantile	Symptom
+D004172	Diplopia	Symptom
+D004244	Dizziness	Symptom
+D004401	Dysarthria	Symptom
+D004408	Dysgeusia	Symptom
+D004409	Dyskinesia, Drug-Induced	Symptom
+D004410	Dyslexia	Symptom
+D004411	Dyslexia, Acquired	Symptom
+D004412	Dysmenorrhea	Symptom
+D004415	Dyspepsia	Symptom
+D004417	Dyspnea	Symptom
+D004418	Dyspnea, Paroxysmal	Symptom
+D004421	Dystonia	Symptom
+D004433	Earache	Symptom
+D004438	Ecchymosis	Symptom
+D004454	Echolalia	Symptom
+D004487	Edema	Symptom
+D004489	Edema, Cardiac	Symptom
+D004614	Emaciation	Symptom
+D004688	Encopresis	Symptom
+D004844	Epistaxis	Symptom
+D004884	Eructation	Symptom
+D004890	Erythema	Symptom
+D005130	Eye Hemorrhage	Symptom
+D005132	Eye Manifestations	Symptom
+D005157	Facial Pain	Symptom
+D005158	Facial Paralysis	Symptom
+D005183	Failure to Thrive	Symptom
+D005207	Fasciculation	Symptom
+D005221	Fatigue	Symptom
+D005222	Mental Fatigue	Symptom
+D005262	Feminization	Symptom
+D005311	Fetal Hypoxia	Symptom
+D005316	Fetal Distress	Symptom
+D005320	Fetal Macrosomia	Symptom
+D005334	Fever	Symptom
+D005335	Fever of Unknown Origin	Symptom
+D005414	Flatulence	Symptom
+D005483	Flushing	Symptom
+D005683	Gagging	Symptom
+D005862	Gerstmann Syndrome	Symptom
+D005926	Glossalgia	Symptom
+D006209	Halitosis	Symptom
+D006212	Hallucinations	Symptom
+D006261	Headache	Symptom
+D006311	Hearing Disorders	Symptom
+D006312	Hearing Loss, Bilateral	Symptom
+D006313	Hearing Loss, Central	Symptom
+D006314	Hearing Loss, Conductive	Symptom
+D006315	Hearing Loss, Functional	Symptom
+D006316	Hearing Loss, High-Frequency	Symptom
+D006317	Hearing Loss, Noise-Induced	Symptom
+D006319	Hearing Loss, Sensorineural	Symptom
+D006337	Heart Murmurs	Symptom
+D006356	Heartburn	Symptom
+D006396	Hematemesis	Symptom
+D006423	Hemianopsia	Symptom
+D006429	Hemiplegia	Symptom
+D006456	Hemoglobinuria	Symptom
+D006469	Hemoptysis	Symptom
+D006472	Oral Hemorrhage	Symptom
+D006606	Hiccup	Symptom
+D006628	Hirsutism	Symptom
+D006685	Hoarseness	Symptom
+D006732	Horner Syndrome	Symptom
+D006930	Hyperalgesia	Symptom
+D006935	Hypercapnia	Symptom
+D006939	Hyperemesis Gravidarum	Symptom
+D006941	Hyperesthesia	Symptom
+D006942	Hypergammaglobulinemia	Symptom
+D006948	Hyperkinesis	Symptom
+D006963	Hyperphagia	Symptom
+D006985	Hyperventilation	Symptom
+D006987	Hypesthesia	Symptom
+D007035	Hypothermia	Symptom
+D007040	Hypoventilation	Symptom
+D007088	Illusions	Symptom
+D007383	Intermittent Claudication	Symptom
+D007565	Jaundice	Symptom
+D007625	Kearns-Sayre Syndrome	Symptom
+D007805	Language Development Disorders	Symptom
+D007806	Language Disorders	Symptom
+D007859	Learning Disorders	Symptom
+D008569	Memory Disorders	Symptom
+D008580	Meningism	Symptom
+D008607	Intellectual Disability	Symptom
+D009041	Motion Sickness	Symptom
+D009058	Mouth Breathing	Symptom
+D009120	Muscle Cramp	Symptom
+D009122	Muscle Hypertonia	Symptom
+D009123	Muscle Hypotonia	Symptom
+D009127	Muscle Rigidity	Symptom
+D009128	Muscle Spasticity	Symptom
+D009133	Muscular Atrophy	Symptom
+D009155	Mutism	Symptom
+D009207	Myoclonus	Symptom
+D009222	Myotonia	Symptom
+D009325	Nausea	Symptom
+D009437	Neuralgia	Symptom
+D009461	Neurologic Manifestations	Symptom
+D009765	Obesity	Symptom
+D009767	Obesity, Morbid	Symptom
+D009846	Oliguria	Symptom
+D009886	Ophthalmoplegia	Symptom
+D009912	Oral Manifestations	Symptom
+D010146	Pain	Symptom
+D010148	Pain, Intractable	Symptom
+D010149	Pain, Postoperative	Symptom
+D010167	Pallor	Symptom
+D010243	Paralysis	Symptom
+D010264	Paraplegia	Symptom
+D010291	Paresis	Symptom
+D010292	Paresthesia	Symptom
+D010468	Perceptual Disorders	Symptom
+D010591	Phantom Limb	Symptom
+D010842	Pica	Symptom
+D011141	Polyuria	Symptom
+D011304	Presbycusis	Symptom
+D011507	Proteinuria	Symptom
+D011537	Pruritus	Symptom
+D011595	Psychomotor Agitation	Symptom
+D011596	Psychomotor Disorders	Symptom
+D011602	Psychophysiologic Disorders	Symptom
+D011681	Pupil Disorders	Symptom
+D011693	Purpura	Symptom
+D011694	Purpura, Hyperglobulinemic	Symptom
+D011695	Purpura, Schoenlein-Henoch	Symptom
+D011696	Purpura, Thrombocytopenic	Symptom
+D011697	Purpura, Thrombotic Thrombocytopenic	Symptom
+D011782	Quadriplegia	Symptom
+D012001	Hyperacusis	Symptom
+D012021	Reflex, Abnormal	Symptom
+D012133	Respiratory Paralysis	Symptom
+D012135	Respiratory Sounds	Symptom
+D012585	Sciatica	Symptom
+D012607	Scotoma	Symptom
+D012640	Seizures	Symptom
+D012678	Sensation Disorders	Symptom
+D012816	Signs and Symptoms	Symptom
+D012877	Skin Manifestations	Symptom
+D012892	Sleep Deprivation	Symptom
+D012893	Sleep Wake Disorders	Symptom
+D012912	Sneezing	Symptom
+D012913	Snoring	Symptom
+D013035	Spasm	Symptom
+D013064	Speech Disorders	Symptom
+D013226	Status Epilepticus	Symptom
+D013342	Stuttering	Symptom
+D013494	Supranuclear Palsy, Progressive	Symptom
+D013575	Syncope	Symptom
+D013651	Taste Disorders	Symptom
+D013746	Tetany	Symptom
+D013851	Thinness	Symptom
+D014008	Tinea Pedis	Symptom
+D014012	Tinnitus	Symptom
+D014098	Toothache	Symptom
+D014103	Torticollis	Symptom
+D014202	Tremor	Symptom
+D014313	Trismus	Symptom
+D014474	Unconsciousness	Symptom
+D014549	Urinary Incontinence	Symptom
+D014550	Urinary Incontinence, Stress	Symptom
+D014717	Vertigo	Symptom
+D014770	Virilism	Symptom
+D014786	Vision Disorders	Symptom
+D014826	Vocal Cord Paralysis	Symptom
+D014832	Voice Disorders	Symptom
+D014839	Vomiting	Symptom
+D014840	Vomiting, Anticipatory	Symptom
+D014884	Waterhouse-Friderichsen Syndrome	Symptom
+D015160	Hydrops Fetalis	Symptom
+D015354	Vision, Low	Symptom
+D015430	Weight Gain	Symptom
+D015431	Weight Loss	Symptom
+D015746	Abdominal Pain	Symptom
+D015845	Tonic Pupil	Symptom
+D015875	Anisocoria	Symptom
+D015877	Miosis	Symptom
+D016534	Cardiac Output, High	Symptom
+D016553	Purpura, Thrombocytopenic, Idiopathic	Symptom
+D016857	Hypocapnia	Symptom
+D017036	Epilepsia Partialis Continua	Symptom
+D017109	Akathisia, Drug-Induced	Symptom
+D017116	Low Back Pain	Symptom
+D017246	Ophthalmoplegia, Chronic Progressive External	Symptom
+D017682	Myocardial Stunning	Symptom
+D017699	Pelvic Pain	Symptom
+D018437	Brown-Sequard Syndrome	Symptom
+D018458	Persistent Vegetative State	Symptom
+D018476	Hypokinesia	Symptom
+D018489	Space Motion Sickness	Symptom
+D018496	Hyperoxia	Symptom
+D018589	Gastroparesis	Symptom
+D018614	Sweating Sickness	Symptom
+D018771	Arthralgia	Symptom
+D018886	Aphasia, Conduction	Symptom
+D018888	Aphasia, Primary Progressive	Symptom
+D018908	Muscle Weakness	Symptom
+D019080	Cafe-au-Lait Spots	Symptom
+D019462	Syncope, Vasovagal	Symptom
+D019547	Neck Pain	Symptom
+D019569	Hemifacial Spasm	Symptom
+D019575	Blindness, Cortical	Symptom
+D019584	Hot Flashes	Symptom
+D019588	Aging, Premature	Symptom
+D019591	Pseudophakia	Symptom
+D019954	Neurobehavioral Manifestations	Symptom
+D020069	Shoulder Pain	Symptom
+D020179	Jet Lag Syndrome	Symptom
+D020233	Gait Disorders, Neurologic	Symptom
+D020234	Gait Ataxia	Symptom
+D020235	Gait Apraxia	Symptom
+D020236	Amnesia, Transient Global	Symptom
+D020237	Alexia, Pure	Symptom
+D020238	Prosopagnosia	Symptom
+D020240	Apraxia, Ideomotor	Symptom
+D020250	Postoperative Nausea and Vomiting	Symptom
+D020270	Alcohol Withdrawal Seizures	Symptom
+D020323	Tics	Symptom
+D020324	Amnesia, Anterograde	Symptom
+D020335	Paraparesis	Symptom
+D020336	Paraparesis, Spastic	Symptom
+D020385	Myokymia	Symptom
+D020567	Fetal Weight	Symptom
+D020757	Amaurosis Fugax	Symptom
+D020795	Photophobia	Symptom
+D020820	Dyskinesias	Symptom
+D020828	Pseudobulbar Palsy	Symptom
+D020886	Somatosensory Disorders	Symptom
+D020915	Korsakoff Syndrome	Symptom
+D020924	Urological Manifestations	Symptom
+D021501	Flank Pain	Symptom
+D023341	Chills	Symptom
+D034381	Hearing Loss	Symptom
+D037061	Metatarsalgia	Symptom
+D041781	Jaundice, Obstructive	Symptom
+D045262	Reticulocytosis	Symptom
+D046088	Hearing Loss, Unilateral	Symptom
+D046089	Hearing Loss, Mixed Conductive-Sensorineural	Symptom
+D046608	Synkinesis	Symptom
+D048949	Labor Pain	Symptom
+D048968	Morning Sickness	Symptom
+D050177	Overweight	Symptom
+D051346	Mobility Limitation	Symptom
+D051474	Neuralgia, Postherpetic	Symptom
+D052245	Usher Syndromes	Symptom
+D053158	Nocturia	Symptom
+D053159	Dysuria	Symptom
+D053201	Urinary Bladder, Overactive	Symptom
+D053202	Urinary Incontinence, Urge	Symptom
+D053448	Prostatism	Symptom
+D053565	Hypercalciuria	Symptom
+D053584	Urinoma	Symptom
+D053591	Pain, Referred	Symptom
+D053608	Stupor	Symptom
+D053609	Lethargy	Symptom
+D054062	Deaf-Blind Disorders	Symptom
+D054068	Livedo Reticularis	Symptom
+D054160	Systolic Murmurs	Symptom
+D054971	Orthostatic Intolerance	Symptom
+D055111	Failed Back Surgery Syndrome	Symptom
+D055154	Dysphonia	Symptom
+D055665	Purpura Fulminans	Symptom
+D055948	Sarcopenia	Symptom
+D055955	Susac Syndrome	Symptom
+D055958	Piriformis Muscle Syndrome	Symptom
+D055964	Alien Hand Syndrome	Symptom
+D056124	Slit Ventricle Syndrome	Symptom
+D056844	Renal Colic	Symptom
+D057178	Primary Progressive Nonfluent Aphasia	Symptom
+D057768	Infantile Apparent Life-Threatening Event	Symptom
+D057896	Striae Distensae	Symptom
+D058447	Eye Pain	Symptom
+D058568	Necrolytic Migratory Erythema	Symptom
+D059226	Nociceptive Pain	Symptom
+D059245	Transient Tachypnea of the Newborn	Symptom
+D059246	Tachypnea	Symptom
+D059265	Visceral Pain	Symptom
+D059350	Chronic Pain	Symptom
+D059352	Musculoskeletal Pain	Symptom
+D059373	Mastodynia	Symptom
+D059388	Pelvic Girdle Pain	Symptom
+D059390	Breakthrough Pain	Symptom
+D059411	Lower Urinary Tract Symptoms	Symptom
+D059445	Anhedonia	Symptom
+D059606	Polydipsia	Symptom
+D059607	Polydipsia, Psychogenic	Symptom
+D059787	Acute Pain	Symptom
+D060050	Angina, Stable	Symptom
+D060486	Ophthalmoplegic Migraine	Symptom
+D060545	Pudendal Neuralgia	Symptom
+D060705	Dyscalculia	Symptom
+D062026	Alice in Wonderland Syndrome	Symptom
+D062706	Prodromal Symptoms	Symptom
+D063766	Pediatric Obesity	Symptom
+D063806	Myalgia	Symptom
+D064250	Hypertriglyceridemic Waist	Symptom
+D065634	Cerebrospinal Fluid Leak	Symptom
+D065635	Benign Paroxysmal Positional Vertigo	Symptom
+D065906	Hyperlactatemia	Symptom
+DOID:0001816	angiosarcoma	Disease
+DOID:0002116	pterygium	Disease
+DOID:0014667	disease of metabolism	Disease
+DOID:0040098	pemphigus gestationis	Disease
+DOID:0050120	hemophagocytic lymphohistiocytosis	Disease
+DOID:0050127	sinusitis	Disease
+DOID:0050138	podoconiosis	Disease
+DOID:0050144	Kartagener syndrome	Disease
+DOID:0050152	aspiration pneumonia	Disease
+DOID:0050156	idiopathic pulmonary fibrosis	Disease
+DOID:0050157	cryptogenic organizing pneumonia	Disease
+DOID:0050175	tick-borne encephalitis	Disease
+DOID:0050185	erythema multiforme	Disease
+DOID:0050214	Lambert-Eaton myasthenic syndrome	Disease
+DOID:0050269	Trichomonas vaginalis trichomoniasis	Disease
+DOID:0050304	aniseikonia	Disease
+DOID:0050328	congenital hypothyroidism	Disease
+DOID:0050336	hypophosphatemia	Disease
+DOID:0050424	familial adenomatous polyposis	Disease
+DOID:0050425	restless legs syndrome	Disease
+DOID:0050426	Stevens-Johnson syndrome	Disease
+DOID:0050427	xeroderma pigmentosum	Disease
+DOID:0050428	nonepidermolytic palmoplantar keratoderma	Disease
+DOID:0050429	Hailey-Hailey disease	Disease
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	Disease
+DOID:0050434	Andersen-Tawil syndrome	Disease
+DOID:0050437	Danon disease	Disease
+DOID:0050439	Usher syndrome	Disease
+DOID:0050445	X-linked dominant hypophosphatemic rickets	Disease
+DOID:0050450	Gitelman syndrome	Disease
+DOID:0050451	Brugada syndrome	Disease
+DOID:0050452	mevalonic aciduria	Disease
+DOID:0050453	lissencephaly	Disease
+DOID:0050454	periventricular nodular heterotopia	Disease
+DOID:0050456	Buruli ulcer disease	Disease
+DOID:0050459	hyperphosphatemia	Disease
+DOID:0050460	Wolf-Hirschhorn syndrome	Disease
+DOID:0050461	aspartylglucosaminuria	Disease
+DOID:0050462	Antley-Bixler syndrome	Disease
+DOID:0050466	Loeys-Dietz syndrome	Disease
+DOID:0050468	yellow nail syndrome	Disease
+DOID:0050469	Costello syndrome	Disease
+DOID:0050473	Alstrom syndrome	Disease
+DOID:0050486	exanthem	Disease
+DOID:0050495	exanthema subitum	Disease
+DOID:0050523	adult T-cell leukemia	Disease
+DOID:0050589	inflammatory bowel disease	Disease
+DOID:0050591	tooth agenesis	Disease
+DOID:0050597	intestinal schistosomiasis	Disease
+DOID:0050619	paranasal sinus cancer	Disease
+DOID:0050632	oculocutaneous albinism	Disease
+DOID:0050633	ocular albinism	Disease
+DOID:0050651	atrioventricular septal defect	Disease
+DOID:0050661	vitelliform macular dystrophy	Disease
+DOID:0050697	chorioamnionitis	Disease
+DOID:0050699	Dent disease	Disease
+DOID:0050700	cardiomyopathy	Disease
+DOID:0050742	nicotine dependence	Disease
+DOID:0050746	mantle cell lymphoma	Disease
+DOID:0050747	lymphoplasmacytic lymphoma	Disease
+DOID:0050753	cerebellar ataxia	Disease
+DOID:0050759	myotonic dystrophy type 2	Disease
+DOID:0050765	neuroacanthocytosis	Disease
+DOID:0050766	choreaacanthocytosis	Disease
+DOID:0050773	paraganglioma	Disease
+DOID:0050782	Zollinger-Ellison syndrome	Disease
+DOID:0050783	secondary progressive multiple sclerosis	Disease
+DOID:0050784	primary progressive multiple sclerosis	Disease
+DOID:0050785	progressive relapsing multiple sclerosis	Disease
+DOID:0050820	atrioventricular block	Disease
+DOID:0050830	peripheral artery disease	Disease
+DOID:0050834	CHARGE syndrome	Disease
+DOID:0050835	generalized dystonia	Disease
+DOID:0050847	sleep apnea	Disease
+DOID:0050848	obstructive sleep apnea	Disease
+DOID:0050871	fibroma	Disease
+DOID:0050873	follicular lymphoma	Disease
+DOID:0050876	Caroli disease	Disease
+DOID:0050902	medulloblastoma	Disease
+DOID:0050908	myelodysplastic syndrome	Disease
+DOID:0060025	immunoglobulin alpha deficiency	Disease
+DOID:0060046	aphasia	Disease
+DOID:0060058	lymphoma	Disease
+DOID:0060061	cutaneous T cell lymphoma	Disease
+DOID:0060098	osteoblastoma	Disease
+DOID:0060119	pharynx cancer	Disease
+DOID:0060123	connective tissue benign neoplasm	Disease
+DOID:0060125	heavy chain disease	Disease
+DOID:0060160	survival motor neuron spinal muscular atrophy	Disease
+DOID:0060161	Kennedy's disease	Disease
+DOID:0060162	dentatorubral-pallidoluysian atrophy	Disease
+DOID:0060165	Kleine-Levin syndrome	Disease
+DOID:0060180	colitis	Disease
+DOID:0060181	ischemic colitis	Disease
+DOID:0060182	microscopic colitis	Disease
+DOID:0060183	collagenous colitis	Disease
+DOID:0060184	lymphocytic colitis	Disease
+DOID:0060185	Clostridium difficile colitis	Disease
+DOID:0060189	ileitis	Disease
+DOID:0060192	Crohn's colitis	Disease
+DOID:0060215	Balo concentric sclerosis	Disease
+DOID:0060216	Cogan syndrome	Disease
+DOID:0060224	atrial fibrillation	Disease
+DOID:0060243	stuttering	Disease
+DOID:0060249	scoliosis	Disease
+DOID:0060260	ptosis	Disease
+DOID:0060262	gallbladder disease	Disease
+DOID:0060263	porencephaly	Disease
+DOID:0060282	persistent hyperplastic primary vitreous	Disease
+DOID:0060284	paroxysmal nocturnal hemoglobinuria	Disease
+DOID:0060313	tracheomalacia	Disease
+DOID:0060316	orofaciodigital syndrome I	Disease
+DOID:0060317	lung abscess	Disease
+DOID:0060318	acute promyelocytic leukemia	Disease
+DOID:0060319	cardiac arrest	Disease
+DOID:0060320	inguinal hernia	Disease
+DOID:0060321	umbilical hernia	Disease
+DOID:0060322	mastoiditis	Disease
+DOID:0060326	myelomeningocele	Disease
+DOID:0060327	omphalocele	Disease
+DOID:0060328	anal fistula	Disease
+DOID:0060329	ectopic pregnancy	Disease
+DOID:0060345	bacillary angiomatosis	Disease
+DOID:0060358	multiple acyl-CoA dehydrogenase deficiency	Disease
+DOID:0060402	chromosome 17p13.1 deletion syndrome	Disease
+DOID:0060469	Miller-Dieker lissencephaly syndrome	Disease
+DOID:0060478	Zika fever	Disease
+DOID:0060538	purpura fulminans	Disease
+DOID:0060562	anomalous left coronary artery from the pulmonary artery	Disease
+DOID:0060570	cardiac tuberculosis	Disease
+DOID:0060643	primary sclerosing cholangitis	Disease
+DOID:0060655	autosomal recessive congenital ichthyosis	Disease
+DOID:0060668	anencephaly	Disease
+DOID:0060688	arteriovenous malformations of the brain	Disease
+DOID:0060768	Smith-Magenis syndrome	Disease
+DOID:0060851	pemphigus vulgaris	Disease
+DOID:0060854	autosomal recessive pseudohypoaldosteronism type 1	Disease
+DOID:0060855	autosomal dominant pseudohypoaldosteronism type 1	Disease
+DOID:0060857	septooptic dysplasia	Disease
+DOID:0060870	isolated growth hormone deficiency	Disease
+DOID:0060889	prune belly syndrome	Disease
+DOID:0060901	Waldenstroem's macroglobulinemia	Disease
+DOID:0060903	thrombosis	Disease
+DOID:0070145	hereditary sensory and autonomic neuropathy type 5	Disease
+DOID:0070146	hereditary sensory neuropathy type 4	Disease
+DOID:0070161	hereditary sensory and autonomic neuropathy type 2	Disease
+DOID:0070162	hereditary sensory and autonomic neuropathy type 1	Disease
+DOID:0070309	absence epilepsy	Disease
+DOID:0080001	bone disease	Disease
+DOID:0080011	bone resorption disease	Disease
+DOID:0080016	spina bifida	Disease
+DOID:0080073	spina bifida occulta	Disease
+DOID:0080108	myoglobinuria	Disease
+DOID:0080158	herpes simplex virus keratitis	Disease
+DOID:0080159	Cryptococcal meningitis	Disease
+DOID:0080160	Cytomegalovirus retinitis	Disease
+DOID:0080161	cutaneous candidiasis	Disease
+DOID:0080162	lupus nephritis	Disease
+DOID:0080169	tricuspid atresia	Disease
+DOID:0080174	bladder exstrophy	Disease
+DOID:0080176	meningococcal meningitis	Disease
+DOID:0080177	hepatic veno-occlusive disease	Disease
+DOID:0080178	mucositis	Disease
+DOID:0080179	haemophilus meningitis	Disease
+DOID:0080202	adenoid cystic carcinoma	Disease
+DOID:0080302	mixed sleep apnea	Disease
+DOID:0080365	endometrial hyperplasia	Disease
+DOID:0110827	Usher syndrome type 2	Disease
+DOID:0110828	Usher syndrome type 3	Disease
+DOID:0110829	retinitis pigmentosa-deafness syndrome	Disease
+DOID:0110938	autosomal dominant osteopetrosis 2	Disease
+DOID:0110948	Waardenburg syndrome type 1	Disease
+DOID:0111044	gray platelet syndrome	Disease
+DOID:0111049	platelet-type bleeding disorder 17	Disease
+DOID:0111078	tibial muscular dystrophy	Disease
+DOID:0111147	angioimmunoblastic T-cell lymphoma	Disease
+DOID:0111148	isolated ectopia lentis	Disease
+DOID:0111151	Prinzmetal angina	Disease
+DOID:0111154	postural orthostatic tachycardia syndrome	Disease
+DOID:0111157	Castleman disease	Disease
+DOID:0111158	SADDAN	Disease
+DOID:0111169	subcortical band heterotopia	Disease
+DOID:10003	sensorineural hearing loss	Disease
+DOID:10016	multiple endocrine neoplasia type 2B	Disease
+DOID:10017	multiple endocrine neoplasia type 1	Disease
+DOID:1002	endometritis	Disease
+DOID:10021	duodenum cancer	Disease
+DOID:10024	migraine with aura	Disease
+DOID:10027	tabes dorsalis	Disease
+DOID:1003	pelvic inflammatory disease	Disease
+DOID:10032	hyperlucent lung	Disease
+DOID:10035	asymptomatic neurosyphilis	Disease
+DOID:10039	late congenital syphilis	Disease
+DOID:10074	hymenolepiasis	Disease
+DOID:10075	diphyllobothriasis	Disease
+DOID:10079	cysticercosis	Disease
+DOID:10080	sparganosis	Disease
+DOID:10112	sleeping sickness	Disease
+DOID:10113	trypanosomiasis	Disease
+DOID:10124	corneal disease	Disease
+DOID:10126	keratoconus	Disease
+DOID:10128	venous insufficiency	Disease
+DOID:10138	xerophthalmia	Disease
+DOID:10140	dry eye syndrome	Disease
+DOID:10141	asthenopia	Disease
+DOID:10155	intestinal cancer	Disease
+DOID:10156	ileal neoplasm	Disease
+DOID:10159	osteonecrosis	Disease
+DOID:10175	optic papillitis	Disease
+DOID:10176	neuroretinitis	Disease
+DOID:1019	osteomyelitis	Disease
+DOID:10192	pleomorphic lipoma	Disease
+DOID:10211	cholelithiasis	Disease
+DOID:10223	dermatomyositis	Disease
+DOID:1023	borderline leprosy	Disease
+DOID:10235	Brown's tendon sheath syndrome	Disease
+DOID:1024	leprosy	Disease
+DOID:10241	thalassemia	Disease
+DOID:10242	ehrlichiosis	Disease
+DOID:10247	pleurisy	Disease
+DOID:1025	tuberculoid leprosy	Disease
+DOID:10264	mumps	Disease
+DOID:10283	prostate cancer	Disease
+DOID:1029	familial periodic paralysis	Disease
+DOID:10293	monocular esotropia	Disease
+DOID:10300	Raynaud disease	Disease
+DOID:10301	parotitis	Disease
+DOID:10302	parotid disease	Disease
+DOID:10303	sialadenitis	Disease
+DOID:10310	viral meningitis	Disease
+DOID:10314	endocarditis	Disease
+DOID:10316	pneumoconiosis	Disease
+DOID:10320	asbestosis	Disease
+DOID:10323	byssinosis	Disease
+DOID:10324	anthracosilicosis	Disease
+DOID:10325	silicosis	Disease
+DOID:10328	siderosis	Disease
+DOID:10348	blepharophimosis	Disease
+DOID:10354	breast fibrocystic disease	Disease
+DOID:1037	lymphocytic leukemia	Disease
+DOID:10371	yaws	Disease
+DOID:10375	suppression amblyopia	Disease
+DOID:10376	amblyopia	Disease
+DOID:10383	amyotrophic neuralgia	Disease
+DOID:10393	secondary hypertrophic osteoarthropathy	Disease
+DOID:10398	pneumonic plague	Disease
+DOID:104	bacterial infectious disease	Disease
+DOID:1040	chronic lymphocytic leukemia	Disease
+DOID:10426	Klippel-Feil syndrome	Disease
+DOID:10456	tonsillitis	Disease
+DOID:10457	Legionnaires' disease	Disease
+DOID:10458	legionellosis	Disease
+DOID:10459	common cold	Disease
+DOID:10460	nasopharyngitis	Disease
+DOID:10480	diaphragmatic eventration	Disease
+DOID:10485	esophageal atresia	Disease
+DOID:10486	intestinal atresia	Disease
+DOID:10487	Hirschsprung's disease	Disease
+DOID:10488	imperforate anus	Disease
+DOID:10533	viral pneumonia	Disease
+DOID:10534	stomach cancer	Disease
+DOID:10554	meningoencephalitis	Disease
+DOID:1056	oculocerebrorenal syndrome	Disease
+DOID:10573	osteomalacia	Disease
+DOID:10575	calcium metabolism disease	Disease
+DOID:10581	metachromatic leukodystrophy	Disease
+DOID:10582	Refsum disease	Disease
+DOID:10584	retinitis pigmentosa	Disease
+DOID:10587	Krabbe disease	Disease
+DOID:10588	adrenoleukodystrophy	Disease
+DOID:1059	intellectual disability	Disease
+DOID:10591	pre-eclampsia	Disease
+DOID:10595	Charcot-Marie-Tooth disease	Disease
+DOID:106	pleural tuberculosis	Disease
+DOID:1060	Hartnup disease	Disease
+DOID:10600	chronic tic disorder	Disease
+DOID:10602	steatorrhea	Disease
+DOID:10603	glucose intolerance	Disease
+DOID:10604	lactose intolerance	Disease
+DOID:10605	short bowel syndrome	Disease
+DOID:10606	blind loop syndrome	Disease
+DOID:10607	tropical sprue	Disease
+DOID:10608	celiac disease	Disease
+DOID:10609	rickets	Disease
+DOID:10611	protein-losing enteropathy	Disease
+DOID:1062	Fanconi syndrome	Disease
+DOID:10629	microphthalmia	Disease
+DOID:1063	interstitial nephritis	Disease
+DOID:10632	Wolfram syndrome	Disease
+DOID:1064	cystinosis	Disease
+DOID:10652	Alzheimer's disease	Disease
+DOID:1067	open-angle glaucoma	Disease
+DOID:10690	mastitis	Disease
+DOID:10699	paragonimiasis	Disease
+DOID:1070	primary open angle glaucoma	Disease
+DOID:10718	giardiasis	Disease
+DOID:1073	renal hypertension	Disease
+DOID:1074	kidney failure	Disease
+DOID:10754	otitis media	Disease
+DOID:10755	petrositis	Disease
+DOID:10762	portal hypertension	Disease
+DOID:10763	hypertension	Disease
+DOID:10772	thrombotic thrombocytopenic purpura	Disease
+DOID:10773	bubonic plague	Disease
+DOID:10782	mesenteric lymphadenitis	Disease
+DOID:10783	methemoglobinemia	Disease
+DOID:10787	premature menopause	Disease
+DOID:10791	frontal sinusitis	Disease
+DOID:10794	sphenoid sinusitis	Disease
+DOID:1080	filariasis	Disease
+DOID:10808	gastric ulcer	Disease
+DOID:1082	dirofilariasis	Disease
+DOID:10824	malignant hypertension	Disease
+DOID:10825	essential hypertension	Disease
+DOID:10844	Japanese encephalitis	Disease
+DOID:10845	St. Louis encephalitis	Disease
+DOID:1085	Edwards syndrome	Disease
+DOID:10864	partial third-nerve palsy	Disease
+DOID:10865	abducens nerve disease	Disease
+DOID:10866	total third-nerve palsy	Disease
+DOID:10871	age related macular degeneration	Disease
+DOID:1088	meningocele	Disease
+DOID:10881	hand, foot and mouth disease	Disease
+DOID:10882	epidemic pleurodynia	Disease
+DOID:10883	herpangina	Disease
+DOID:10887	lepromatous leprosy	Disease
+DOID:1089	tethered spinal cord syndrome	Disease
+DOID:10892	hypospadias	Disease
+DOID:10907	microcephaly	Disease
+DOID:10908	hydrocephalus	Disease
+DOID:1091	tooth disease	Disease
+DOID:10914	amnestic disorder	Disease
+DOID:10915	Wernicke-Korsakoff syndrome	Disease
+DOID:10923	sickle cell anemia	Disease
+DOID:10941	intracranial aneurysm	Disease
+DOID:10944	tongue disease	Disease
+DOID:10952	nephritis	Disease
+DOID:10955	strongyloidiasis	Disease
+DOID:10964	cholesteatoma of middle ear	Disease
+DOID:10965	spastic diplegia	Disease
+DOID:10966	lipoid nephrosis	Disease
+DOID:10968	spastic monoplegia	Disease
+DOID:10969	hemiplegia	Disease
+DOID:10970	spastic quadriplegia	Disease
+DOID:10974	oophoritis	Disease
+DOID:10976	membranous glomerulonephritis	Disease
+DOID:1098	fetal erythroblastosis	Disease
+DOID:10983	Alport syndrome	Disease
+DOID:10986	discitis	Disease
+DOID:1099	alpha thalassemia	Disease
+DOID:10991	basal ganglia cerebrovascular disease	Disease
+DOID:10992	acute hemorrhagic leukoencephalitis	Disease
+DOID:110	lens disease	Disease
+DOID:1100	ovarian disease	Disease
+DOID:11014	anorectal stricture	Disease
+DOID:11030	corneal edema	Disease
+DOID:11037	dissociative amnesia	Disease
+DOID:11042	Felty's syndrome	Disease
+DOID:11044	gastroschisis	Disease
+DOID:11049	meconium aspiration syndrome	Disease
+DOID:11054	urinary bladder cancer	Disease
+DOID:11055	pasteurellosis	Disease
+DOID:11060	placenta praevia	Disease
+DOID:11077	brucellosis	Disease
+DOID:11080	myiasis	Disease
+DOID:11088	asphyxia neonatorum	Disease
+DOID:11100	Q fever	Disease
+DOID:11101	trench fever	Disease
+DOID:11102	bartonellosis	Disease
+DOID:11111	hydronephrosis	Disease
+DOID:11119	Gilles de la Tourette syndrome	Disease
+DOID:11121	pulpitis	Disease
+DOID:11123	Henoch-Schoenlein purpura	Disease
+DOID:11151	cholecystolithiasis	Disease
+DOID:11153	miliaria rubra	Disease
+DOID:11155	hypohidrosis	Disease
+DOID:11156	anhidrosis	Disease
+DOID:1116	pertussis	Disease
+DOID:11168	anogenital venereal wart	Disease
+DOID:11175	enophthalmos	Disease
+DOID:11193	syndactyly	Disease
+DOID:11198	DiGeorge syndrome	Disease
+DOID:11199	hypoparathyroidism	Disease
+DOID:11201	parathyroid gland disease	Disease
+DOID:11202	primary hyperparathyroidism	Disease
+DOID:11204	allergic conjunctivitis	Disease
+DOID:11206	opioid abuse	Disease
+DOID:11212	hydrophthalmos	Disease
+DOID:1123	spondyloarthropathy	Disease
+DOID:11234	orbital cellulitis	Disease
+DOID:11239	appendix cancer	Disease
+DOID:11240	appendiceal neoplasm	Disease
+DOID:11244	neonatal anemia	Disease
+DOID:11247	disseminated intravascular coagulation	Disease
+DOID:11249	vitamin K deficiency hemorrhagic disease	Disease
+DOID:11254	Brill-Zinsser disease	Disease
+DOID:11256	typhus	Disease
+DOID:11258	cat-scratch disease	Disease
+DOID:11260	rabies	Disease
+DOID:11262	ornithosis	Disease
+DOID:11265	trachoma	Disease
+DOID:11266	hemorrhagic fever with renal syndrome	Disease
+DOID:11285	tick paralysis	Disease
+DOID:1129	pituitary apoplexy	Disease
+DOID:11330	erysipelas	Disease
+DOID:11335	sarcoidosis	Disease
+DOID:11336	rhinoscleroma	Disease
+DOID:11337	Lemierre's syndrome	Disease
+DOID:11338	tetanus	Disease
+DOID:11339	pneumocystosis	Disease
+DOID:1134	gingival recession	Disease
+DOID:11342	arcus senilis	Disease
+DOID:11343	scleral disease	Disease
+DOID:11355	bladder calculus	Disease
+DOID:11360	Phlebotomus fever	Disease
+DOID:11364	lens subluxation	Disease
+DOID:11372	megacolon	Disease
+DOID:11379	gnathomiasis	Disease
+DOID:1138	spinal meningioma	Disease
+DOID:11382	corneal neovascularization	Disease
+DOID:11383	cryptorchidism	Disease
+DOID:11387	epidural abscess	Disease
+DOID:11389	subdural empyema	Disease
+DOID:11394	adult respiratory distress syndrome	Disease
+DOID:11396	pulmonary edema	Disease
+DOID:114	heart disease	Disease
+DOID:11400	pyelonephritis	Disease
+DOID:11401	xanthogranulomatous pyelonephritis	Disease
+DOID:11405	diphtheria	Disease
+DOID:11406	choroiditis	Disease
+DOID:1142	alternating exotropia	Disease
+DOID:1143	exotropia	Disease
+DOID:11446	sciatic neuropathy	Disease
+DOID:11459	pseudotumor cerebri	Disease
+DOID:11476	osteoporosis	Disease
+DOID:1148	polydactyly	Disease
+DOID:11481	constrictive pericarditis	Disease
+DOID:11482	hemopericardium	Disease
+DOID:11486	Horner's syndrome	Disease
+DOID:115	cardiac tamponade	Disease
+DOID:11502	mitral valve insufficiency	Disease
+DOID:11503	diabetic autonomic neuropathy	Disease
+DOID:11506	suppurative otitis media	Disease
+DOID:11512	Budd-Chiari syndrome	Disease
+DOID:11514	fissured tongue	Disease
+DOID:11527	laryngostenosis	Disease
+DOID:11549	Adie syndrome	Disease
+DOID:11550	oculomotor nerve paralysis	Disease
+DOID:11554	Chandler syndrome	Disease
+DOID:11555	Fuchs' endothelial dystrophy	Disease
+DOID:11561	hypertensive retinopathy	Disease
+DOID:11563	retinal vasculitis	Disease
+DOID:11572	Listeria meningitis	Disease
+DOID:11573	listeriosis	Disease
+DOID:11577	Cauda equina syndrome	Disease
+DOID:11589	Riley-Day syndrome	Disease
+DOID:11599	Frey syndrome	Disease
+DOID:11603	infant gynecomastia	Disease
+DOID:11608	fungal meningitis	Disease
+DOID:11612	polycystic ovary syndrome	Disease
+DOID:11613	hyperandrogenism	Disease
+DOID:11615	penile cancer	Disease
+DOID:11623	dental pulp necrosis	Disease
+DOID:11624	penile neoplasm	Disease
+DOID:11633	thyroid hormone resistance syndrome	Disease
+DOID:11634	myxedema	Disease
+DOID:11638	presbyopia	Disease
+DOID:11656	cicatricial pemphigoid	Disease
+DOID:11661	blue color blindness	Disease
+DOID:11664	nephrosclerosis	Disease
+DOID:11678	onchocerciasis	Disease
+DOID:1168	familial hyperlipidemia	Disease
+DOID:117	heart cancer	Disease
+DOID:11701	selective IgA deficiency disease	Disease
+DOID:11702	dysgammaglobulinemia	Disease
+DOID:11713	diabetic angiopathy	Disease
+DOID:11714	gestational diabetes	Disease
+DOID:11716	prediabetes syndrome	Disease
+DOID:11719	oculopharyngeal muscular dystrophy	Disease
+DOID:1172	hyperlipoproteinemia type IV	Disease
+DOID:11720	distal muscular dystrophy	Disease
+DOID:11722	myotonic dystrophy type 1	Disease
+DOID:11723	Duchenne muscular dystrophy	Disease
+DOID:11724	limb-girdle muscular dystrophy	Disease
+DOID:11725	Cornelia de Lange syndrome	Disease
+DOID:11726	Emery-Dreifuss muscular dystrophy	Disease
+DOID:11727	facioscapulohumeral muscular dystrophy	Disease
+DOID:11729	Lyme disease	Disease
+DOID:11755	choledocholithiasis	Disease
+DOID:11759	hypochromic anemia	Disease
+DOID:1176	bronchial disease	Disease
+DOID:11771	spontaneous ocular nystagmus	Disease
+DOID:11782	astigmatism	Disease
+DOID:118	pericardial effusion	Disease
+DOID:11801	protein-energy malnutrition	Disease
+DOID:11819	ureter cancer	Disease
+DOID:11823	hepatorenal syndrome	Disease
+DOID:11829	degenerative myopia	Disease
+DOID:11830	myopia	Disease
+DOID:11831	cortical blindness	Disease
+DOID:11832	visual epilepsy	Disease
+DOID:11836	clubfoot	Disease
+DOID:1184	nephrotic syndrome	Disease
+DOID:11840	coronary artery vasospasm	Disease
+DOID:11847	coronary thrombosis	Disease
+DOID:11853	monocular exotropia	Disease
+DOID:1187	tibial neuropathy	Disease
+DOID:11870	Pick's disease	Disease
+DOID:11875	denture stomatitis	Disease
+DOID:1188	mononeuropathy	Disease
+DOID:11885	ureteral benign neoplasm	Disease
+DOID:119	vaginal cancer	Disease
+DOID:11914	gastroparesis	Disease
+DOID:1192	peripheral nervous system neoplasm	Disease
+DOID:11934	head and neck cancer	Disease
+DOID:11949	Creutzfeldt-Jakob disease	Disease
+DOID:11963	esophagitis	Disease
+DOID:11971	synostosis	Disease
+DOID:11976	botulism	Disease
+DOID:11981	morbid obesity	Disease
+DOID:11983	Prader-Willi syndrome	Disease
+DOID:11984	hypertrophic cardiomyopathy	Disease
+DOID:11991	osteopoikilosis	Disease
+DOID:11996	spermatic cord torsion	Disease
+DOID:11997	spermatocele	Disease
+DOID:120	female reproductive organ cancer	Disease
+DOID:12010	anterior ischemic optic neuropathy	Disease
+DOID:12028	Conn's syndrome	Disease
+DOID:12029	sympathetic ophthalmia	Disease
+DOID:12030	panuveitis	Disease
+DOID:1205	allergic hypersensitivity disease	Disease
+DOID:12053	cryptococcosis	Disease
+DOID:1206	Rett syndrome	Disease
+DOID:12096	sodoku disease	Disease
+DOID:12098	trigeminal neuralgia	Disease
+DOID:121	vaginal disease	Disease
+DOID:1210	optic neuritis	Disease
+DOID:12119	hemosiderosis	Disease
+DOID:12120	pulmonary alveolar proteinosis	Disease
+DOID:12128	pica disease	Disease
+DOID:12129	bulimia nervosa	Disease
+DOID:12132	granulomatosis with polyangiitis	Disease
+DOID:12134	factor VIII deficiency	Disease
+DOID:12140	Chagas disease	Disease
+DOID:12143	neurogenic bladder	Disease
+DOID:12155	lymphocytic choriomeningitis	Disease
+DOID:12156	arachnoiditis	Disease
+DOID:12157	aseptic meningitis	Disease
+DOID:12169	carpal tunnel syndrome	Disease
+DOID:12170	radial nerve lesion	Disease
+DOID:12171	radial neuropathy	Disease
+DOID:12176	goiter	Disease
+DOID:12177	common variable immunodeficiency	Disease
+DOID:1218	echinostomiasis	Disease
+DOID:12185	otosclerosis	Disease
+DOID:12192	sigmoid colon cancer	Disease
+DOID:12205	dengue disease	Disease
+DOID:12206	dengue hemorrhagic fever	Disease
+DOID:12211	filarial elephantiasis	Disease
+DOID:12215	oligohydramnios	Disease
+DOID:12217	Lewy body dementia	Disease
+DOID:1222	cartilage disease	Disease
+DOID:12236	primary biliary cirrhosis	Disease
+DOID:12237	bile reflux	Disease
+DOID:12241	beta thalassemia	Disease
+DOID:12259	hemophilia B	Disease
+DOID:1227	neutropenia	Disease
+DOID:12270	coloboma	Disease
+DOID:12271	aniridia	Disease
+DOID:12273	anisometropia	Disease
+DOID:12297	Vogt-Koyanagi-Harada disease	Disease
+DOID:12305	Bloch-Sulzberger syndrome	Disease
+DOID:12306	vitiligo	Disease
+DOID:12308	Dubin-Johnson syndrome	Disease
+DOID:12309	urticaria pigmentosa	Disease
+DOID:12318	corneal granular dystrophy	Disease
+DOID:12328	marasmus	Disease
+DOID:12332	hematocele of tunica vaginalis testis	Disease
+DOID:12336	male infertility	Disease
+DOID:12337	varicocele	Disease
+DOID:12347	osteogenesis imperfecta	Disease
+DOID:12361	Graves' disease	Disease
+DOID:12365	malaria	Disease
+DOID:12375	bronchopneumonia	Disease
+DOID:12376	juvenile spinal muscular atrophy	Disease
+DOID:12377	spinal muscular atrophy	Disease
+DOID:12382	complex partial epilepsy	Disease
+DOID:12384	dysentery	Disease
+DOID:12385	shigellosis	Disease
+DOID:12386	balantidiasis	Disease
+DOID:12387	nephrogenic diabetes insipidus	Disease
+DOID:12388	neurohypophyseal diabetes insipidus	Disease
+DOID:12397	entropion	Disease
+DOID:1240	leukemia	Disease
+DOID:12403	tinea pedis	Disease
+DOID:12449	aplastic anemia	Disease
+DOID:1245	vulva cancer	Disease
+DOID:12450	pancytopenia	Disease
+DOID:12451	sulfhemoglobinemia	Disease
+DOID:12466	secondary hyperparathyroidism	Disease
+DOID:1247	blood coagulation disease	Disease
+DOID:12474	capillariasis	Disease
+DOID:12491	Vagus nerve disease	Disease
+DOID:12506	Bell's palsy	Disease
+DOID:12514	retinal perforation	Disease
+DOID:1252	trichuriasis	Disease
+DOID:12522	bagassosis	Disease
+DOID:12526	tarsal tunnel syndrome	Disease
+DOID:12528	lesion of sciatic nerve	Disease
+DOID:12531	von Willebrand's disease	Disease
+DOID:1254	trichostrongylosis	Disease
+DOID:12549	hepatitis A	Disease
+DOID:1255	trichostrongyloidiasis	Disease
+DOID:12550	hepatic coma	Disease
+DOID:12554	hemolytic-uremic syndrome	Disease
+DOID:12556	acute kidney tubular necrosis	Disease
+DOID:12557	Duane retraction syndrome	Disease
+DOID:12558	chronic progressive external ophthalmoplegia	Disease
+DOID:12568	dyscalculia	Disease
+DOID:12574	posterior uveitis	Disease
+DOID:12577	urethral obstruction	Disease
+DOID:12580	Cri-Du-Chat syndrome	Disease
+DOID:12583	velocardiofacial syndrome	Disease
+DOID:1260	parametritis	Disease
+DOID:12638	hypertrophic pyloric stenosis	Disease
+DOID:12639	pyloric stenosis	Disease
+DOID:12642	hiatus hernia	Disease
+DOID:12657	vestibulocochlear nerve disease	Disease
+DOID:12663	blastomycosis	Disease
+DOID:12678	hypercalcemia	Disease
+DOID:12679	nephrocalcinosis	Disease
+DOID:12680	pseudobulbar palsy	Disease
+DOID:12683	vestibular neuronitis	Disease
+DOID:12689	acoustic neuroma	Disease
+DOID:12697	locked-in syndrome	Disease
+DOID:12698	gynecomastia	Disease
+DOID:127	leiomyoma	Disease
+DOID:1270	hereditary hemorrhagic telangiectasia	Disease
+DOID:12700	hyperprolactinemia	Disease
+DOID:12704	ataxia telangiectasia	Disease
+DOID:12705	Friedreich ataxia	Disease
+DOID:12707	myoclonic cerebellar dyssynergia	Disease
+DOID:12714	Ellis-Van Creveld syndrome	Disease
+DOID:12716	newborn respiratory distress syndrome	Disease
+DOID:1272	telangiectasis	Disease
+DOID:12720	cerebral atherosclerosis	Disease
+DOID:12721	multiple epiphyseal dysplasia	Disease
+DOID:1273	respiratory syncytial virus infectious disease	Disease
+DOID:12732	intermediate uveitis	Disease
+DOID:12750	cyclosporiasis	Disease
+DOID:12759	choroid cancer	Disease
+DOID:1278	tolosa-hunt syndrome	Disease
+DOID:12783	migraine without aura	Disease
+DOID:12785	diabetic polyneuropathy	Disease
+DOID:1279	ocular motility disease	Disease
+DOID:12798	mucopolysaccharidosis	Disease
+DOID:12799	mucopolysaccharidosis II	Disease
+DOID:12800	mucopolysaccharidosis VI	Disease
+DOID:12801	mucopolysaccharidosis III	Disease
+DOID:12802	mucopolysaccharidosis I	Disease
+DOID:12803	Sly syndrome	Disease
+DOID:12804	mucopolysaccharidosis IV	Disease
+DOID:1283	enterocele	Disease
+DOID:12835	quadriplegia	Disease
+DOID:12837	thyroid crisis	Disease
+DOID:12841	ancylostomiasis	Disease
+DOID:12842	Guillain-Barre syndrome	Disease
+DOID:1285	rectal disease	Disease
+DOID:12858	Huntington's disease	Disease
+DOID:1287	cardiovascular system disease	Disease
+DOID:12889	Miller Fisher syndrome	Disease
+DOID:1289	neurodegenerative disease	Disease
+DOID:12894	Sjogren's syndrome	Disease
+DOID:12895	keratoconjunctivitis sicca	Disease
+DOID:12897	submandibular gland disease	Disease
+DOID:12900	Mikulicz disease	Disease
+DOID:12901	necrotizing sialometaplasia	Disease
+DOID:12905	sialolithiasis	Disease
+DOID:12918	thromboangiitis obliterans	Disease
+DOID:12929	endocardial fibroelastosis	Disease
+DOID:12930	dilated cardiomyopathy	Disease
+DOID:12932	endomyocardial fibrosis	Disease
+DOID:12934	Kearns-Sayre syndrome	Disease
+DOID:12935	alcoholic cardiomyopathy	Disease
+DOID:12960	acrocephalosyndactylia	Disease
+DOID:12961	Poland syndrome	Disease
+DOID:12971	hereditary spherocytosis	Disease
+DOID:12978	Plasmodium vivax malaria	Disease
+DOID:12986	leukostasis	Disease
+DOID:12987	agranulocytosis	Disease
+DOID:13001	carotid stenosis	Disease
+DOID:13002	subclavian steal syndrome	Disease
+DOID:13003	vertebrobasilar insufficiency	Disease
+DOID:13025	retinopathy of prematurity	Disease
+DOID:13027	transient global amnesia	Disease
+DOID:13033	balanitis	Disease
+DOID:13034	relapsing fever	Disease
+DOID:13042	persistent fetal circulation syndrome	Disease
+DOID:13068	renal osteodystrophy	Disease
+DOID:1307	dementia	Disease
+DOID:13078	eumycotic mycetoma	Disease
+DOID:13088	periventricular leukomalacia	Disease
+DOID:13089	intracranial arterial disease	Disease
+DOID:13094	branch retinal artery occlusion	Disease
+DOID:13095	vertebral artery insufficiency	Disease
+DOID:13096	Sneddon syndrome	Disease
+DOID:13097	intracranial arteriosclerosis	Disease
+DOID:13098	central retinal artery occlusion	Disease
+DOID:13099	Moyamoya disease	Disease
+DOID:13100	intracranial vasospasm	Disease
+DOID:13117	paronychia	Disease
+DOID:1312	focal segmental glomerulosclerosis	Disease
+DOID:13133	HELLP syndrome	Disease
+DOID:13137	Werdnig-Hoffmann disease	Disease
+DOID:13141	uveitis	Disease
+DOID:13166	allergic bronchopulmonary aspergillosis	Disease
+DOID:13174	dissociated nystagmus	Disease
+DOID:13186	megaesophagus	Disease
+DOID:13189	gout	Disease
+DOID:1319	brain cancer	Disease
+DOID:13197	nodular goiter	Disease
+DOID:13198	endemic goiter	Disease
+DOID:13200	substernal goiter	Disease
+DOID:13223	uterine fibroid	Disease
+DOID:13240	tooth resorption	Disease
+DOID:13241	Behcet's disease	Disease
+DOID:13249	pneumatosis cystoides intestinalis	Disease
+DOID:13250	diarrhea	Disease
+DOID:13252	mesenteric vascular occlusion	Disease
+DOID:13254	diverticulitis of colon	Disease
+DOID:13258	typhoid fever	Disease
+DOID:13268	porphyria	Disease
+DOID:13271	cutaneous porphyria	Disease
+DOID:13272	Klebsiella pneumonia	Disease
+DOID:13276	Mycoplasma pneumoniae pneumonia	Disease
+DOID:1328	Rift Valley fever	Disease
+DOID:13300	Scheuermann's disease	Disease
+DOID:13316	exocrine pancreatic insufficiency	Disease
+DOID:13317	hyperinsulinemic hypoglycemia	Disease
+DOID:13336	congenital toxoplasmosis	Disease
+DOID:13357	chondromalacia patellae	Disease
+DOID:13359	Ehlers-Danlos syndrome	Disease
+DOID:13366	Stiff-Person syndrome	Disease
+DOID:13371	scrub typhus	Disease
+DOID:13372	alpha 1-antitrypsin deficiency	Disease
+DOID:13374	fibrodysplasia ossificans progressiva	Disease
+DOID:13375	temporal arteritis	Disease
+DOID:13378	Kawasaki disease	Disease
+DOID:1338	congenital dyserythropoietic anemia	Disease
+DOID:13381	pernicious anemia	Disease
+DOID:13382	megaloblastic anemia	Disease
+DOID:1339	Diamond-Blackfan anemia	Disease
+DOID:13399	color blindness	Disease
+DOID:1340	pure red-cell aplasia	Disease
+DOID:13401	angioid streaks	Disease
+DOID:13404	uveoparotid fever	Disease
+DOID:13406	pulmonary sarcoidosis	Disease
+DOID:13413	hepatic encephalopathy	Disease
+DOID:13417	alexia	Disease
+DOID:13419	neurogenic bowel	Disease
+DOID:1343	urethritis	Disease
+DOID:13431	bejel	Disease
+DOID:13450	coccidioidomycosis	Disease
+DOID:13452	scleritis	Disease
+DOID:13482	Proteus syndrome	Disease
+DOID:13499	jejunal cancer	Disease
+DOID:1350	paranasal sinus neoplasm	Disease
+DOID:13501	Mobius syndrome	Disease
+DOID:13515	tuberous sclerosis	Disease
+DOID:1352	paranasal sinus disease	Disease
+DOID:13523	loiasis	Disease
+DOID:13533	osteopetrosis	Disease
+DOID:13543	hyperparathyroidism	Disease
+DOID:13544	low tension glaucoma	Disease
+DOID:13548	secondary Parkinson disease	Disease
+DOID:13550	angle-closure glaucoma	Disease
+DOID:13561	optic disk drusen	Disease
+DOID:13564	aspergillosis	Disease
+DOID:13565	neuroaspergillosis	Disease
+DOID:13576	twin-to-twin transfusion syndrome	Disease
+DOID:13579	kwashiorkor	Disease
+DOID:1358	maxillary sinus neoplasm	Disease
+DOID:13580	cholestasis	Disease
+DOID:13585	alveolar periostitis	Disease
+DOID:13593	eclampsia	Disease
+DOID:13603	obstructive jaundice	Disease
+DOID:13608	biliary atresia	Disease
+DOID:13619	extrahepatic cholestasis	Disease
+DOID:13620	patent foramen ovale	Disease
+DOID:13622	campylobacteriosis	Disease
+DOID:13628	favism	Disease
+DOID:13636	Fanconi anemia	Disease
+DOID:13641	exfoliation syndrome	Disease
+DOID:13664	post-vaccinal encephalitis	Disease
+DOID:13677	SAPHO syndrome	Disease
+DOID:13709	premature ejaculation	Disease
+DOID:13714	anodontia	Disease
+DOID:13722	neuroschistosomiasis	Disease
+DOID:13724	scurvy	Disease
+DOID:13725	beriberi	Disease
+DOID:13732	panophthalmitis	Disease
+DOID:13757	excessive tearing	Disease
+DOID:13767	clonorchiasis	Disease
+DOID:13768	opisthorchiasis	Disease
+DOID:13774	Addison's disease	Disease
+DOID:1380	endometrial cancer	Disease
+DOID:13801	pharyngoconjunctival fever	Disease
+DOID:13809	familial combined hyperlipidemia	Disease
+DOID:1381	Fox-Fordyce disease	Disease
+DOID:13810	familial hypercholesterolemia	Disease
+DOID:13814	hypoglossal nerve disease	Disease
+DOID:13819	lymphogranuloma venereum	Disease
+DOID:1382	miliaria	Disease
+DOID:1383	sweat gland disease	Disease
+DOID:13832	patent ductus arteriosus	Disease
+DOID:1386	abetalipoproteinemia	Disease
+DOID:13864	trochlear nerve disease	Disease
+DOID:13865	facial neuralgia	Disease
+DOID:1387	hypolipoproteinemia	Disease
+DOID:13884	sick sinus syndrome	Disease
+DOID:1389	polyneuropathy	Disease
+DOID:13891	bird fancier's lung	Disease
+DOID:139	squamous cell papilloma	Disease
+DOID:1390	hypobetalipoproteinemia	Disease
+DOID:13909	red-green color blindness	Disease
+DOID:1391	Norum disease	Disease
+DOID:13910	red color blindness	Disease
+DOID:13911	achromatopsia	Disease
+DOID:13912	acquired color blindness	Disease
+DOID:13922	eosinophilic esophagitis	Disease
+DOID:13924	necrotizing ulcerative gingivitis	Disease
+DOID:13929	lacrimal duct obstruction	Disease
+DOID:13934	facial paralysis	Disease
+DOID:13938	amenorrhea	Disease
+DOID:1394	urinary schistosomiasis	Disease
+DOID:13941	benign paroxysmal positional nystagmus	Disease
+DOID:13945	CADASIL	Disease
+DOID:13948	bladder neck obstruction	Disease
+DOID:13949	interstitial cystitis	Disease
+DOID:1395	schistosomiasis	Disease
+DOID:13976	peptic esophagitis	Disease
+DOID:13994	cleidocranial dysplasia	Disease
+DOID:1400	lacrimal apparatus disease	Disease
+DOID:14004	thoracic aortic aneurysm	Disease
+DOID:14018	alcoholic liver cirrhosis	Disease
+DOID:14021	Tietze's syndrome	Disease
+DOID:14039	POEMS syndrome	Disease
+DOID:14040	autoimmune polyendocrine syndrome	Disease
+DOID:1406	iritis	Disease
+DOID:14067	Plasmodium falciparum malaria	Disease
+DOID:14068	blackwater fever	Disease
+DOID:14069	cerebral malaria	Disease
+DOID:1407	anterior uveitis	Disease
+DOID:14075	geniculate ganglionitis	Disease
+DOID:14087	epicondylitis	Disease
+DOID:14095	boutonneuse fever	Disease
+DOID:14107	De Quervain disease	Disease
+DOID:14115	toxic shock syndrome	Disease
+DOID:14116	multiple symmetric lipomatosis	Disease
+DOID:14118	familial lipoprotein lipase deficiency	Disease
+DOID:1412	bacteriuria	Disease
+DOID:14121	blue toe syndrome	Disease
+DOID:14146	ureterolithiasis	Disease
+DOID:1415	gyrate atrophy	Disease
+DOID:14159	obstructive hydrocephalus	Disease
+DOID:1417	choroid disease	Disease
+DOID:14174	central neurocytoma	Disease
+DOID:14175	von Hippel-Lindau disease	Disease
+DOID:14176	selective IgG deficiency disease	Disease
+DOID:14183	alcoholic neuropathy	Disease
+DOID:14188	frozen shoulder	Disease
+DOID:14203	childhood type dermatomyositis	Disease
+DOID:14213	hypophosphatasia	Disease
+DOID:14219	renal tubular acidosis	Disease
+DOID:14221	abdominal obesity-metabolic syndrome 1	Disease
+DOID:14223	ochronosis	Disease
+DOID:14227	azoospermia	Disease
+DOID:14228	oligospermia	Disease
+DOID:14250	Down syndrome	Disease
+DOID:14256	adult-onset Still's disease	Disease
+DOID:1426	ureteral disease	Disease
+DOID:14261	fragile X syndrome	Disease
+DOID:14262	oral candidiasis	Disease
+DOID:14264	benign neonatal seizures	Disease
+DOID:14265	pulmonary valve insufficiency	Disease
+DOID:14268	sclerosing cholangitis	Disease
+DOID:14276	shoulder impingement syndrome	Disease
+DOID:14283	primary hypertrophic osteoarthropathy	Disease
+DOID:14284	patellofemoral pain syndrome	Disease
+DOID:14286	neurogenic arthropathy	Disease
+DOID:14289	Ebstein anomaly	Disease
+DOID:14291	LEOPARD syndrome	Disease
+DOID:14305	tuberculous empyema	Disease
+DOID:14308	skin epithelioid hemangioma	Disease
+DOID:14319	pleuropneumonia	Disease
+DOID:1432	blindness	Disease
+DOID:14323	Marfan syndrome	Disease
+DOID:14330	Parkinson's disease	Disease
+DOID:14332	postencephalitic Parkinson disease	Disease
+DOID:1439	pyuria	Disease
+DOID:1440	Machado-Joseph disease	Disease
+DOID:14400	capillary leak syndrome	Disease
+DOID:14402	critical illness polyneuropathy	Disease
+DOID:1441	autosomal dominant cerebellar ataxia	Disease
+DOID:14415	Legg-Calve-Perthes disease	Disease
+DOID:14418	dracunculiasis	Disease
+DOID:1442	Alpers syndrome	Disease
+DOID:14423	glossopharyngeal neuralgia	Disease
+DOID:14447	gonadal dysgenesis	Disease
+DOID:14448	46 XY gonadal dysgenesis	Disease
+DOID:14450	46 XX gonadal dysgenesis	Disease
+DOID:14451	hyperkalemic periodic paralysis	Disease
+DOID:14452	hypokalemic periodic paralysis	Disease
+DOID:14453	farmer's lung	Disease
+DOID:14464	neuroleptic malignant syndrome	Disease
+DOID:14482	herpes gestationis	Disease
+DOID:14483	chorea gravidarum	Disease
+DOID:14484	sporotrichosis	Disease
+DOID:14495	dumping syndrome	Disease
+DOID:14498	lipoid proteinosis	Disease
+DOID:14499	Fabry disease	Disease
+DOID:14500	fucosidosis	Disease
+DOID:14501	Sjogren-Larsson syndrome	Disease
+DOID:14503	neuronal ceroid lipofuscinosis	Disease
+DOID:14504	Niemann-Pick disease	Disease
+DOID:14515	WAGR syndrome	Disease
+DOID:14525	Reye syndrome	Disease
+DOID:1455	geographic tongue	Disease
+DOID:14550	root resorption	Disease
+DOID:14555	Foster-Kennedy syndrome	Disease
+DOID:1456	glossitis	Disease
+DOID:1459	hypothyroidism	Disease
+DOID:146	papilledema	Disease
+DOID:1461	cholesterol embolism	Disease
+DOID:14654	prostatitis	Disease
+DOID:1468	labyrinthitis	Disease
+DOID:14681	Silver-Russell syndrome	Disease
+DOID:14692	Smith-Lemli-Opitz syndrome	Disease
+DOID:14693	Clouston syndrome	Disease
+DOID:14695	galactokinase deficiency	Disease
+DOID:14702	branchiootorenal syndrome	Disease
+DOID:14705	Pfeiffer syndrome	Disease
+DOID:14717	centronuclear myopathy	Disease
+DOID:14735	hereditary angioedema	Disease
+DOID:1474	aggressive periodontitis	Disease
+DOID:14748	Sotos syndrome	Disease
+DOID:1475	lymphangioma	Disease
+DOID:14755	argininosuccinic aciduria	Disease
+DOID:14768	Saethre-Chotzen syndrome	Disease
+DOID:14777	benign familial neonatal epilepsy	Disease
+DOID:14784	olivopontocerebellar atrophy	Disease
+DOID:14791	Leber congenital amaurosis	Disease
+DOID:14793	hypohidrotic ectodermal dysplasia	Disease
+DOID:1483	gingival disease	Disease
+DOID:1485	cystic fibrosis	Disease
+DOID:1496	echinococcosis	Disease
+DOID:1498	cholera	Disease
+DOID:1508	candidiasis	Disease
+DOID:1517	cecal benign neoplasm	Disease
+DOID:1518	cecal disease	Disease
+DOID:1521	cecum cancer	Disease
+DOID:1525	nodular nonsuppurative panniculitis	Disease
+DOID:1526	panniculitis	Disease
+DOID:1532	pleural disease	Disease
+DOID:1540	parathyroid carcinoma	Disease
+DOID:1555	urticaria	Disease
+DOID:1556	arthus reaction	Disease
+DOID:1557	hypersensitivity reaction type III disease	Disease
+DOID:1558	angioedema	Disease
+DOID:1562	chromoblastomycosis	Disease
+DOID:1563	dermatomycosis	Disease
+DOID:1564	fungal infectious disease	Disease
+DOID:1570	ectropion	Disease
+DOID:1572	normal pressure hydrocephalus	Disease
+DOID:1573	communicating hydrocephalus	Disease
+DOID:1574	alcohol use disorder	Disease
+DOID:1580	diffuse scleroderma	Disease
+DOID:1583	laryngeal tuberculosis	Disease
+DOID:1584	acute chest syndrome	Disease
+DOID:1586	rheumatic fever	Disease
+DOID:1588	thrombocytopenia	Disease
+DOID:1591	renovascular hypertension	Disease
+DOID:1602	lymphadenitis	Disease
+DOID:161	keratosis	Disease
+DOID:1612	breast cancer	Disease
+DOID:1614	male breast cancer	Disease
+DOID:162	cancer	Disease
+DOID:1638	central nervous system tuberculosis	Disease
+DOID:1639	skeletal tuberculosis	Disease
+DOID:1657	ventricular septal defect	Disease
+DOID:1659	supratentorial cancer	Disease
+DOID:1664	pineoblastoma	Disease
+DOID:1673	pneumothorax	Disease
+DOID:1678	chronic interstitial cystitis	Disease
+DOID:1679	cystitis	Disease
+DOID:1681	heart septal defect	Disease
+DOID:1682	congenital heart disease	Disease
+DOID:1686	glaucoma	Disease
+DOID:1687	neovascular glaucoma	Disease
+DOID:169	neuroendocrine tumor	Disease
+DOID:1697	ichthyosis	Disease
+DOID:17	musculoskeletal system disease	Disease
+DOID:170	endocrine gland cancer	Disease
+DOID:1700	X-linked ichthyosis	Disease
+DOID:1701	steroid inherited metabolic disorder	Disease
+DOID:1702	ichthyosis vulgaris	Disease
+DOID:171	neuroectodermal tumor	Disease
+DOID:1712	aortic valve stenosis	Disease
+DOID:172	clear cell acanthoma	Disease
+DOID:1724	duodenal ulcer	Disease
+DOID:1727	retinal vein occlusion	Disease
+DOID:1731	histoplasmosis	Disease
+DOID:1733	cryptosporidiosis	Disease
+DOID:1737	duodenal benign neoplasm	Disease
+DOID:174	acanthoma	Disease
+DOID:1742	drug psychosis	Disease
+DOID:1749	squamous cell carcinoma	Disease
+DOID:175	vascular cancer	Disease
+DOID:1754	mitral valve stenosis	Disease
+DOID:1756	facial nerve disease	Disease
+DOID:1757	facial hemiatrophy	Disease
+DOID:1759	American histoplasmosis	Disease
+DOID:1761	Melkersson-Rosenthal syndrome	Disease
+DOID:1762	cheilitis	Disease
+DOID:1770	toxic megacolon	Disease
+DOID:178	vascular disease	Disease
+DOID:1781	thyroid cancer	Disease
+DOID:1785	pituitary cancer	Disease
+DOID:1786	adrenal rest tumor	Disease
+DOID:1787	pericarditis	Disease
+DOID:1793	pancreatic cancer	Disease
+DOID:1799	islet cell tumor	Disease
+DOID:180	ossifying fibroma	Disease
+DOID:1800	neuroendocrine carcinoma	Disease
+DOID:1802	mononeuritis	Disease
+DOID:1803	neuritis	Disease
+DOID:1811	reflex sympathetic dystrophy	Disease
+DOID:182	calcinosis	Disease
+DOID:1824	status epilepticus	Disease
+DOID:1825	childhood absence epilepsy	Disease
+DOID:1826	epilepsy	Disease
+DOID:1827	idiopathic generalized epilepsy	Disease
+DOID:1829	urethral stricture	Disease
+DOID:1835	mononeuritis multiplex	Disease
+DOID:1837	diabetic ketoacidosis	Disease
+DOID:1838	Menkes disease	Disease
+DOID:184	bone cancer	Disease
+DOID:1849	cannabis dependence	Disease
+DOID:1852	intrahepatic cholestasis	Disease
+DOID:1856	cherubism	Disease
+DOID:1858	McCune Albright syndrome	Disease
+DOID:1862	jaw cancer	Disease
+DOID:1863	skull cancer	Disease
+DOID:1866	giant cell reparative granuloma	Disease
+DOID:1882	atrial heart septal defect	Disease
+DOID:1883	hepatitis C	Disease
+DOID:1884	viral hepatitis	Disease
+DOID:1891	optic nerve disease	Disease
+DOID:1896	sigmoid neoplasm	Disease
+DOID:1897	sigmoid disease	Disease
+DOID:1907	malignant fibroxanthoma	Disease
+DOID:1909	melanoma	Disease
+DOID:1911	endodermal sinus tumor	Disease
+DOID:1919	Lesch-Nyhan syndrome	Disease
+DOID:192	sex cord-gonadal stromal tumor	Disease
+DOID:1920	hyperuricemia	Disease
+DOID:1921	Klinefelter's syndrome	Disease
+DOID:1923	sex differentiation disease	Disease
+DOID:1924	hypogonadism	Disease
+DOID:1926	Gaucher's disease	Disease
+DOID:1928	Williams-Beuren syndrome	Disease
+DOID:1929	supravalvular aortic stenosis	Disease
+DOID:1930	Laurence-Moon syndrome	Disease
+DOID:1931	hypothalamic disease	Disease
+DOID:1932	Angelman syndrome	Disease
+DOID:1933	Rubinstein-Taybi syndrome	Disease
+DOID:1934	dysostosis	Disease
+DOID:1935	Bardet-Biedl syndrome	Disease
+DOID:1936	atherosclerosis	Disease
+DOID:1947	trichomoniasis	Disease
+DOID:1949	cholecystitis	Disease
+DOID:1962	fallopian tube disease	Disease
+DOID:1963	fallopian tube carcinoma	Disease
+DOID:1964	fallopian tube cancer	Disease
+DOID:1967	leiomyosarcoma	Disease
+DOID:1969	cerebral palsy	Disease
+DOID:1984	rectal neoplasm	Disease
+DOID:1993	rectum cancer	Disease
+DOID:1998	Lutembacher's syndrome	Disease
+DOID:200	giant cell tumor	Disease
+DOID:2001	neuroma	Disease
+DOID:2006	preretinal fibrosis	Disease
+DOID:201	connective tissue cancer	Disease
+DOID:2018	hyperinsulinism	Disease
+DOID:203	exostosis	Disease
+DOID:2033	communication disorder	Disease
+DOID:2034	encephalomalacia	Disease
+DOID:204	enthesopathy	Disease
+DOID:2043	hepatitis B	Disease
+DOID:2047	hepatitis D	Disease
+DOID:2048	autoimmune hepatitis	Disease
+DOID:205	hyperostosis	Disease
+DOID:2051	maxillary sinusitis	Disease
+DOID:2058	chronic mucocutaneous candidiasis	Disease
+DOID:2059	vulvar disease	Disease
+DOID:206	hereditary multiple exostoses	Disease
+DOID:2065	syringoma	Disease
+DOID:2074	intestinal perforation	Disease
+DOID:2089	constipation	Disease
+DOID:210	heel spur	Disease
+DOID:2106	myotonia congenita	Disease
+DOID:2112	cystoisosporiasis	Disease
+DOID:2113	coccidiosis	Disease
+DOID:2149	urogenital tuberculosis	Disease
+DOID:2154	nephroblastoma	Disease
+DOID:216	dental caries	Disease
+DOID:2170	vaginitis	Disease
+DOID:2173	eyelid benign neoplasm	Disease
+DOID:2174	ocular cancer	Disease
+DOID:2187	amelogenesis imperfecta	Disease
+DOID:219	colon cancer	Disease
+DOID:2211	factor XIII deficiency	Disease
+DOID:2212	coagulation protein disease	Disease
+DOID:2213	hemorrhagic disease	Disease
+DOID:2214	inherited blood coagulation disease	Disease
+DOID:2215	factor VII deficiency	Disease
+DOID:2216	factor V deficiency	Disease
+DOID:2217	Bernard-Soulier syndrome	Disease
+DOID:2218	blood platelet disease	Disease
+DOID:2219	Glanzmann's thrombasthenia	Disease
+DOID:2222	factor X deficiency	Disease
+DOID:2224	essential thrombocythemia	Disease
+DOID:2228	thrombocytosis	Disease
+DOID:2229	factor XI deficiency	Disease
+DOID:223	basilar artery insufficiency	Disease
+DOID:2231	factor XII deficiency	Disease
+DOID:2234	focal epilepsy	Disease
+DOID:2235	prothrombin deficiency	Disease
+DOID:2236	congenital afibrinogenemia	Disease
+DOID:2237	hepatitis	Disease
+DOID:224	transient cerebral ischemia	Disease
+DOID:2247	spondylosis	Disease
+DOID:225	syndrome	Disease
+DOID:2253	cervix disease	Disease
+DOID:2256	osteochondrodysplasia	Disease
+DOID:227	ankylosis	Disease
+DOID:2272	vulvovaginal candidiasis	Disease
+DOID:2273	vulvovaginitis	Disease
+DOID:2275	pharyngitis	Disease
+DOID:2280	hidradenitis suppurativa	Disease
+DOID:2282	hidradenitis	Disease
+DOID:229	female reproductive system disease	Disease
+DOID:2297	leptospirosis	Disease
+DOID:230	lateral sclerosis	Disease
+DOID:2300	spondylolysis	Disease
+DOID:231	motor neuron disease	Disease
+DOID:2312	nocardiosis	Disease
+DOID:2316	brain ischemia	Disease
+DOID:2320	obstructive lung disease	Disease
+DOID:2321	dyspepsia	Disease
+DOID:2326	gastroenteritis	Disease
+DOID:2338	mandibular cancer	Disease
+DOID:2339	Crouzon syndrome	Disease
+DOID:2340	craniosynostosis	Disease
+DOID:2348	arteriosclerotic cardiovascular disease	Disease
+DOID:2349	arteriosclerosis	Disease
+DOID:235	colonic benign neoplasm	Disease
+DOID:2351	iron metabolism disease	Disease
+DOID:2352	hemochromatosis	Disease
+DOID:2354	myelophthisic anemia	Disease
+DOID:2355	anemia	Disease
+DOID:2361	macrocytic anemia	Disease
+DOID:2364	post-thrombotic syndrome	Disease
+DOID:2365	West Nile encephalitis	Disease
+DOID:2366	West Nile fever	Disease
+DOID:2367	neuroaxonal dystrophy	Disease
+DOID:2368	gangliosidosis	Disease
+DOID:2373	hereditary elliptocytosis	Disease
+DOID:2377	multiple sclerosis	Disease
+DOID:2378	relapsing-remitting multiple sclerosis	Disease
+DOID:238	pupil disease	Disease
+DOID:2382	kernicterus	Disease
+DOID:2383	neonatal jaundice	Disease
+DOID:2384	Wernicke encephalopathy	Disease
+DOID:2394	ovarian cancer	Disease
+DOID:240	iris disease	Disease
+DOID:2409	rhinosporidiosis	Disease
+DOID:2411	granular cell tumor	Disease
+DOID:2426	gangliocytoma	Disease
+DOID:2431	glomus tumor	Disease
+DOID:2436	glomangioma	Disease
+DOID:2449	acromegaly	Disease
+DOID:2451	protein S deficiency	Disease
+DOID:2452	thrombophilia	Disease
+DOID:2457	giant papillary conjunctivitis	Disease
+DOID:2474	vernal conjunctivitis	Disease
+DOID:2476	hereditary spastic paraplegia	Disease
+DOID:2477	motor peripheral neuropathy	Disease
+DOID:2479	central nervous system origin vertigo	Disease
+DOID:248	trachea leiomyoma	Disease
+DOID:2481	infantile epileptic encephalopathy	Disease
+DOID:2485	phosphorus metabolism disease	Disease
+DOID:2491	sensory peripheral neuropathy	Disease
+DOID:2498	tooth erosion	Disease
+DOID:2508	Takayasu's arteritis	Disease
+DOID:2510	Kluver-Bucy syndrome	Disease
+DOID:2513	basal cell carcinoma	Disease
+DOID:2518	orchitis	Disease
+DOID:2519	testicular disease	Disease
+DOID:252	alcoholic psychosis	Disease
+DOID:2527	nephrosis	Disease
+DOID:2529	splenic disease	Disease
+DOID:2531	hematologic cancer	Disease
+DOID:2533	splenic infarction	Disease
+DOID:2536	chronic inflammatory demyelinating polyneuritis	Disease
+DOID:2538	Landau-Kleffner syndrome	Disease
+DOID:2548	reflex epilepsy	Disease
+DOID:255	hemangioma	Disease
+DOID:2555	granulomatous angiitis	Disease
+DOID:2556	relapsing polychondritis	Disease
+DOID:2557	chondromalacia	Disease
+DOID:2559	opiate dependence	Disease
+DOID:2560	morphine dependence	Disease
+DOID:2562	suppurative periapical periodontitis	Disease
+DOID:2565	macular corneal dystrophy	Disease
+DOID:2566	corneal dystrophy	Disease
+DOID:2568	cervicitis	Disease
+DOID:2569	retinal drusen	Disease
+DOID:2571	Langerhans-cell histiocytosis	Disease
+DOID:2581	chondrodysplasia punctata	Disease
+DOID:2583	agammaglobulinemia	Disease
+DOID:2596	larynx cancer	Disease
+DOID:2598	laryngeal benign neoplasm	Disease
+DOID:2602	chondroma	Disease
+DOID:2609	adenomyoma	Disease
+DOID:2615	papilloma	Disease
+DOID:2626	choroid plexus papilloma	Disease
+DOID:263	kidney cancer	Disease
+DOID:2634	cystadenoma	Disease
+DOID:2636	ovarian Brenner tumor	Disease
+DOID:264	hemangiopericytoma	Disease
+DOID:2640	struma ovarii	Disease
+DOID:2645	benign mesothelioma	Disease
+DOID:2649	chondroblastoma	Disease
+DOID:2653	benign fibrous mesothelioma	Disease
+DOID:2658	dermoid cyst	Disease
+DOID:2661	myoepithelioma	Disease
+DOID:2664	sweat gland neoplasm	Disease
+DOID:2668	mesenchymoma	Disease
+DOID:2671	transitional cell carcinoma	Disease
+DOID:2689	lymphangiosarcoma	Disease
+DOID:2691	myoma	Disease
+DOID:2696	Leydig cell tumor	Disease
+DOID:2701	nodular tenosynovitis	Disease
+DOID:2702	pigmented villonodular synovitis	Disease
+DOID:2703	synovitis	Disease
+DOID:2708	mushroom workers' lung	Disease
+DOID:2710	sick building syndrome	Disease
+DOID:2712	phimosis	Disease
+DOID:2717	Bloom syndrome	Disease
+DOID:2718	hemopneumothorax	Disease
+DOID:2722	acrodermatitis	Disease
+DOID:2723	dermatitis	Disease
+DOID:2725	capillary hemangioma	Disease
+DOID:2729	dyskeratosis congenita	Disease
+DOID:2730	epidermolysis bullosa	Disease
+DOID:2731	vesiculobullous skin disease	Disease
+DOID:2732	Rothmund-Thomson syndrome	Disease
+DOID:2734	keratosis follicularis	Disease
+DOID:2738	pseudoxanthoma elasticum	Disease
+DOID:2739	Gilbert syndrome	Disease
+DOID:2741	bilirubin metabolic disorder	Disease
+DOID:2742	auditory system disease	Disease
+DOID:2744	pyelitis	Disease
+DOID:2746	glycogen storage disease V	Disease
+DOID:2747	glycogen storage disease	Disease
+DOID:2748	glycogen storage disease III	Disease
+DOID:2749	glycogen storage disease I	Disease
+DOID:2750	glycogen storage disease IV	Disease
+DOID:2752	glycogen storage disease II	Disease
+DOID:2755	Mycobacterium avium complex disease	Disease
+DOID:2768	transient tic disorder	Disease
+DOID:2769	tic disorder	Disease
+DOID:277	chorioangioma	Disease
+DOID:2772	irritant dermatitis	Disease
+DOID:2773	contact dermatitis	Disease
+DOID:2785	Dandy-Walker syndrome	Disease
+DOID:2786	cerebellar disease	Disease
+DOID:2789	parasitic protozoa infectious disease	Disease
+DOID:2797	idiopathic interstitial pneumonia	Disease
+DOID:2799	bronchiolitis obliterans	Disease
+DOID:28	endocrine system disease	Disease
+DOID:2810	middle lobe syndrome	Disease
+DOID:2815	cranial nerve malignant neoplasm	Disease
+DOID:2825	nose disease	Disease
+DOID:2828	acalculous cholecystitis	Disease
+DOID:2841	asthma	Disease
+DOID:2842	Jervell-Lange Nielsen syndrome	Disease
+DOID:2843	long QT syndrome	Disease
+DOID:2846	bruxism	Disease
+DOID:285	hairy cell leukemia	Disease
+DOID:2855	hyperthyroxinemia	Disease
+DOID:2856	euthyroid sick syndrome	Disease
+DOID:2859	hemoglobin C disease	Disease
+DOID:2860	hemoglobinopathy	Disease
+DOID:2861	congenital nonspherocytic hemolytic anemia	Disease
+DOID:2862	glucosephosphate dehydrogenase deficiency	Disease
+DOID:2871	endometrial carcinoma	Disease
+DOID:288	endometriosis of uterus	Disease
+DOID:2883	prostatic adenoma	Disease
+DOID:2889	retrocochlear disease	Disease
+DOID:289	endometriosis	Disease
+DOID:2891	thyroid adenoma	Disease
+DOID:2907	Goldenhar syndrome	Disease
+DOID:2908	Treacher Collins syndrome	Disease
+DOID:2916	hypersensitivity reaction type IV disease	Disease
+DOID:2917	cryoglobulinemia	Disease
+DOID:2920	membranoproliferative glomerulonephritis	Disease
+DOID:2921	glomerulonephritis	Disease
+DOID:2926	Klippel-Trenaunay syndrome	Disease
+DOID:2929	Newcastle disease	Disease
+DOID:2934	aleutian mink disease	Disease
+DOID:2935	Chediak-Higashi syndrome	Disease
+DOID:2942	bronchiolitis	Disease
+DOID:2945	severe acute respiratory syndrome	Disease
+DOID:2951	motion sickness	Disease
+DOID:2952	inner ear disease	Disease
+DOID:2957	pulmonary tuberculosis	Disease
+DOID:2960	photosensitive trichothiodystrophy	Disease
+DOID:2962	Cockayne syndrome	Disease
+DOID:2964	periarthritis	Disease
+DOID:2965	bursitis	Disease
+DOID:2972	renal artery obstruction	Disease
+DOID:2973	kidney cortex necrosis	Disease
+DOID:2975	cystic kidney disease	Disease
+DOID:2977	primary hyperoxaluria	Disease
+DOID:2978	carbohydrate metabolic disorder	Disease
+DOID:2981	kidney papillary necrosis	Disease
+DOID:2982	perinephritis	Disease
+DOID:2983	anuria	Disease
+DOID:2986	IgA glomerulonephritis	Disease
+DOID:2987	familial Mediterranean fever	Disease
+DOID:2988	antiphospholipid syndrome	Disease
+DOID:299	adenocarcinoma	Disease
+DOID:2994	germ cell cancer	Disease
+DOID:2997	Sertoli-Leydig cell tumor	Disease
+DOID:2998	testicular cancer	Disease
+DOID:2999	granulosa cell tumor	Disease
+DOID:3008	invasive ductal carcinoma	Disease
+DOID:302	substance abuse	Disease
+DOID:3021	acute kidney failure	Disease
+DOID:303	substance-related disorder	Disease
+DOID:3030	mucinous adenocarcinoma	Disease
+DOID:3042	allergic contact dermatitis	Disease
+DOID:3044	food allergy	Disease
+DOID:3049	Churg-Strauss syndrome	Disease
+DOID:305	carcinoma	Disease
+DOID:3052	Balkan nephropathy	Disease
+DOID:3055	paratyphoid fever	Disease
+DOID:3068	glioblastoma multiforme	Disease
+DOID:3069	astrocytoma	Disease
+DOID:3070	malignant glioma	Disease
+DOID:3074	giant cell glioblastoma	Disease
+DOID:3078	grade III astrocytoma	Disease
+DOID:308	early myoclonic encephalopathy	Disease
+DOID:3081	cystic lymphangioma	Disease
+DOID:3082	interstitial lung disease	Disease
+DOID:3083	chronic obstructive pulmonary disease	Disease
+DOID:3087	gingivitis	Disease
+DOID:3093	nervous system cancer	Disease
+DOID:3095	germ cell and embryonal cancer	Disease
+DOID:3098	small cell sarcoma	Disease
+DOID:310	MERRF syndrome	Disease
+DOID:3103	thoracic outlet syndrome	Disease
+DOID:3108	ascaridiasis	Disease
+DOID:3111	cystadenocarcinoma	Disease
+DOID:3112	papillary adenocarcinoma	Disease
+DOID:3113	papillary carcinoma	Disease
+DOID:3114	serous cystadenocarcinoma	Disease
+DOID:3119	gastrointestinal system cancer	Disease
+DOID:3121	gallbladder cancer	Disease
+DOID:3122	gastric outlet obstruction	Disease
+DOID:3127	proctitis	Disease
+DOID:3128	anus disease	Disease
+DOID:3132	porphyria cutanea tarda	Disease
+DOID:3133	acute porphyria	Disease
+DOID:3134	facial dermatosis	Disease
+DOID:3136	scalp dermatosis	Disease
+DOID:3138	acanthosis nigricans	Disease
+DOID:314	tenosynovial giant cell tumor	Disease
+DOID:3140	scleredema adultorum	Disease
+DOID:3141	mucinoses	Disease
+DOID:3142	leg dermatosis	Disease
+DOID:3144	cutis laxa	Disease
+DOID:3145	hyperlipoproteinemia type III	Disease
+DOID:3146	lipid metabolism disorder	Disease
+DOID:3149	keratoacanthoma	Disease
+DOID:3153	lipomatosis	Disease
+DOID:3156	hypomelanosis of Ito	Disease
+DOID:3158	hand dermatosis	Disease
+DOID:3159	photosensitivity disease	Disease
+DOID:3165	skin benign neoplasm	Disease
+DOID:3168	squamous cell neoplasm	Disease
+DOID:3172	papillary adenoma	Disease
+DOID:3179	inverted papilloma	Disease
+DOID:318	progressive muscular atrophy	Disease
+DOID:3181	oligodendroglioma	Disease
+DOID:3183	childhood oligodendroglioma	Disease
+DOID:3186	adult oligodendroglioma	Disease
+DOID:319	spinal cord disease	Disease
+DOID:3191	nemaline myopathy	Disease
+DOID:3192	neurilemmoma	Disease
+DOID:3193	peripheral nerve sheath neoplasm	Disease
+DOID:321	tropical spastic paraparesis	Disease
+DOID:3210	Pelizaeus-Merzbacher disease	Disease
+DOID:3211	lysosomal storage disease	Disease
+DOID:3213	demyelinating disease	Disease
+DOID:3218	jejunal neoplasm	Disease
+DOID:322	myelitis	Disease
+DOID:3222	causalgia	Disease
+DOID:3223	complex regional pain syndrome	Disease
+DOID:3225	tracheal disease	Disease
+DOID:3227	tracheal stenosis	Disease
+DOID:3229	gastric dilatation	Disease
+DOID:3230	high pressure neurological syndrome	Disease
+DOID:3240	aspiration pneumonitis	Disease
+DOID:3241	lipid pneumonia	Disease
+DOID:3246	embryonal rhabdomyosarcoma	Disease
+DOID:3247	rhabdomyosarcoma	Disease
+DOID:326	ischemia	Disease
+DOID:3261	Job's syndrome	Disease
+DOID:3262	phagocyte bactericidal dysfunction	Disease
+DOID:3263	piebaldism	Disease
+DOID:3265	chronic granulomatous disease	Disease
+DOID:327	syringomyelia	Disease
+DOID:3275	thymoma	Disease
+DOID:3277	thymus cancer	Disease
+DOID:3284	thymic carcinoma	Disease
+DOID:3298	vaccinia	Disease
+DOID:3301	gonadoblastoma	Disease
+DOID:3302	chordoma	Disease
+DOID:3304	germinoma	Disease
+DOID:3307	teratoma	Disease
+DOID:3309	neurodermatitis	Disease
+DOID:331	central nervous system disease	Disease
+DOID:3310	atopic dermatitis	Disease
+DOID:3314	angiomyolipoma	Disease
+DOID:3315	lipoma	Disease
+DOID:3319	lymphangioleiomyomatosis	Disease
+DOID:332	amyotrophic lateral sclerosis	Disease
+DOID:3320	Tay-Sachs disease	Disease
+DOID:3322	gangliosidosis GM1	Disease
+DOID:3323	Sandhoff disease	Disease
+DOID:3325	hyperglobulinemic purpura	Disease
+DOID:3326	purpura	Disease
+DOID:3327	partial motor epilepsy	Disease
+DOID:3328	temporal lobe epilepsy	Disease
+DOID:3329	benign epilepsy with centrotemporal spikes	Disease
+DOID:3330	partial sensory epilepsy	Disease
+DOID:3331	frontal lobe epilepsy	Disease
+DOID:3332	haemonchiasis	Disease
+DOID:3341	osteitis fibrosa	Disease
+DOID:3342	bone inflammation disease	Disease
+DOID:3343	glycoproteinosis	Disease
+DOID:3345	xanthomatosis	Disease
+DOID:3347	osteosarcoma	Disease
+DOID:3355	fibrosarcoma	Disease
+DOID:3362	coronary aneurysm	Disease
+DOID:3369	Ewing sarcoma	Disease
+DOID:3371	chondrosarcoma	Disease
+DOID:338	cranial nerve neoplasm	Disease
+DOID:3382	liposarcoma	Disease
+DOID:3385	bacterial vaginosis	Disease
+DOID:3388	periodontal disease	Disease
+DOID:339	accessory nerve disease	Disease
+DOID:3390	palmoplantar keratosis	Disease
+DOID:3393	coronary artery disease	Disease
+DOID:3401	inappropriate ADH syndrome	Disease
+DOID:3405	histiocytosis	Disease
+DOID:3407	carotid artery disease	Disease
+DOID:341	peripheral vascular disease	Disease
+DOID:3410	carotid artery thrombosis	Disease
+DOID:3413	alpha-mannosidosis	Disease
+DOID:3419	optic nerve neoplasm	Disease
+DOID:3426	vestibular disease	Disease
+DOID:3429	inclusion body myositis	Disease
+DOID:3437	laryngitis	Disease
+DOID:345	uterine disease	Disease
+DOID:3450	cutaneous Paget's disease	Disease
+DOID:3454	brain infarction	Disease
+DOID:3457	invasive lobular carcinoma	Disease
+DOID:3459	breast carcinoma	Disease
+DOID:3463	breast disease	Disease
+DOID:3478	iris cancer	Disease
+DOID:3479	uveal cancer	Disease
+DOID:3480	uveal disease	Disease
+DOID:3481	septicemic plague	Disease
+DOID:3482	plague	Disease
+DOID:3486	necrobiosis lipoidica	Disease
+DOID:3488	cellulitis	Disease
+DOID:349	systemic mastocytosis	Disease
+DOID:3490	Noonan syndrome	Disease
+DOID:3491	Turner syndrome	Disease
+DOID:3492	mixed connective tissue disease	Disease
+DOID:3493	signet ring cell adenocarcinoma	Disease
+DOID:350	mastocytosis	Disease
+DOID:3522	lateral medullary syndrome	Disease
+DOID:3523	brain stem infarction	Disease
+DOID:3525	middle cerebral artery infarction	Disease
+DOID:3526	cerebral infarction	Disease
+DOID:3527	cerebral arterial disease	Disease
+DOID:3528	anterior cerebral artery infarction	Disease
+DOID:3529	central core myopathy	Disease
+DOID:3534	Lafora disease	Disease
+DOID:3535	Unverricht-Lundborg syndrome	Disease
+DOID:3541	cerebral ventricle cancer	Disease
+DOID:355	mast-cell sarcoma	Disease
+DOID:3557	superior mesenteric artery syndrome	Disease
+DOID:3558	duodenal obstruction	Disease
+DOID:3565	meningioma	Disease
+DOID:3571	liver cancer	Disease
+DOID:3572	intracranial sinus thrombosis	Disease
+DOID:3574	lateral sinus thrombosis	Disease
+DOID:3575	cavernous sinus thrombosis	Disease
+DOID:3576	sagittal sinus thrombosis	Disease
+DOID:3577	Sertoli cell tumor	Disease
+DOID:3587	pancreatic ductal carcinoma	Disease
+DOID:3590	gestational trophoblastic neoplasm	Disease
+DOID:3594	choriocarcinoma	Disease
+DOID:3602	toxic encephalopathy	Disease
+DOID:3603	mucinous cystadenocarcinoma	Disease
+DOID:3611	acute retinal necrosis syndrome	Disease
+DOID:3612	retinitis	Disease
+DOID:3614	Kallmann syndrome	Disease
+DOID:3616	angiolipoma	Disease
+DOID:3618	epidural neoplasm	Disease
+DOID:3620	central nervous system cancer	Disease
+DOID:3627	aortic aneurysm	Disease
+DOID:363	uterine cancer	Disease
+DOID:3635	congenital myasthenic syndrome	Disease
+DOID:3642	empty sella syndrome	Disease
+DOID:3644	hypothalamic neoplasm	Disease
+DOID:3649	pyruvate decarboxylase deficiency	Disease
+DOID:365	bladder disease	Disease
+DOID:3650	lactic acidosis	Disease
+DOID:3652	Leigh disease	Disease
+DOID:3659	sialuria	Disease
+DOID:3663	cutaneous mastocytosis	Disease
+DOID:3665	diffuse cutaneous mastocytosis	Disease
+DOID:3669	intermittent claudication	Disease
+DOID:367	olfactory nerve disease	Disease
+DOID:3671	pericoronitis	Disease
+DOID:3672	rhabdoid cancer	Disease
+DOID:3677	pulmonary plasma cell granuloma	Disease
+DOID:3683	lung benign neoplasm	Disease
+DOID:3687	MELAS syndrome	Disease
+DOID:3689	brachial plexus neuritis	Disease
+DOID:369	olfactory neuroblastoma	Disease
+DOID:3690	brachial plexus neuropathy	Disease
+DOID:37	skin disease	Disease
+DOID:3721	plasmacytoma	Disease
+DOID:3733	theileriasis	Disease
+DOID:3737	verrucous carcinoma	Disease
+DOID:374	nutrition disease	Disease
+DOID:3753	Hermansky-Pudlak syndrome	Disease
+DOID:3756	protein C deficiency	Disease
+DOID:3762	cytochrome-c oxidase deficiency disease	Disease
+DOID:3763	hermaphroditism	Disease
+DOID:3765	pseudohermaphroditism	Disease
+DOID:3766	leukorrhea	Disease
+DOID:3767	vaginal discharge	Disease
+DOID:3770	pulmonary fibrosis	Disease
+DOID:3772	intraventricular meningioma	Disease
+DOID:3777	granuloma annulare	Disease
+DOID:3781	anovulation	Disease
+DOID:3783	Coffin-Lowry syndrome	Disease
+DOID:3798	pleural empyema	Disease
+DOID:3803	Crigler-Najjar syndrome	Disease
+DOID:3805	porokeratosis	Disease
+DOID:381	arthropathy	Disease
+DOID:3817	cranial nerve palsy	Disease
+DOID:3818	photoallergic dermatitis	Disease
+DOID:3819	toxicodendron dermatitis	Disease
+DOID:3821	posterior cerebral artery infarction	Disease
+DOID:3825	Shwartzman phenomenon	Disease
+DOID:3827	congenital diaphragmatic hernia	Disease
+DOID:3828	chromophobe adenoma	Disease
+DOID:3829	pituitary adenoma	Disease
+DOID:384	Wolff-Parkinson-White syndrome	Disease
+DOID:3840	craniopharyngioma	Disease
+DOID:3842	skull base cancer	Disease
+DOID:3846	adamantinous craniopharyngioma	Disease
+DOID:3847	papillary craniopharyngioma	Disease
+DOID:3852	Peutz-Jeghers syndrome	Disease
+DOID:3856	male reproductive organ cancer	Disease
+DOID:3861	medullomyoblastoma	Disease
+DOID:3864	adult medulloblastoma	Disease
+DOID:3868	melanotic medulloblastoma	Disease
+DOID:3869	childhood medulloblastoma	Disease
+DOID:3875	thrombophlebitis	Disease
+DOID:3876	colonic pseudo-obstruction	Disease
+DOID:3877	functional colonic disease	Disease
+DOID:3878	intestinal pseudo-obstruction	Disease
+DOID:3883	Lynch syndrome	Disease
+DOID:3890	acute intermittent porphyria	Disease
+DOID:3891	placental insufficiency	Disease
+DOID:3892	insulinoma	Disease
+DOID:3896	hidradenoma	Disease
+DOID:3901	vulvitis	Disease
+DOID:3904	bronchus carcinoma	Disease
+DOID:3906	bronchial neoplasm	Disease
+DOID:3908	non-small cell lung carcinoma	Disease
+DOID:3911	progeria	Disease
+DOID:3928	adiposis dolorosa	Disease
+DOID:3933	anterior compartment syndrome	Disease
+DOID:3947	adrenal gland hyperfunction	Disease
+DOID:3948	adrenocortical carcinoma	Disease
+DOID:3952	adrenal cortex disease	Disease
+DOID:3953	adrenal gland cancer	Disease
+DOID:3962	follicular thyroid carcinoma	Disease
+DOID:3963	thyroid carcinoma	Disease
+DOID:397	restrictive cardiomyopathy	Disease
+DOID:3981	pantothenate kinase-associated neurodegeneration	Disease
+DOID:3982	Meige syndrome	Disease
+DOID:3985	ostertagiasis	Disease
+DOID:399	tuberculosis	Disease
+DOID:4	disease	Disease
+DOID:401	multidrug-resistant tuberculosis	Disease
+DOID:4015	spindle cell carcinoma	Disease
+DOID:402	oral tuberculosis	Disease
+DOID:4022	ureterocele	Disease
+DOID:4029	gastritis	Disease
+DOID:403	mouth disease	Disease
+DOID:404	gastrointestinal tuberculosis	Disease
+DOID:4045	muscle cancer	Disease
+DOID:4051	alveolar rhabdomyosarcoma	Disease
+DOID:407	hepatic tuberculosis	Disease
+DOID:4071	duodenogastric reflux	Disease
+DOID:4072	duodenal disease	Disease
+DOID:4078	tricuspid valve stenosis	Disease
+DOID:4079	heart valve disease	Disease
+DOID:4080	tricuspid valve insufficiency	Disease
+DOID:4085	trophoblastic neoplasm	Disease
+DOID:409	liver disease	Disease
+DOID:4090	agnosia	Disease
+DOID:4109	tick infestation	Disease
+DOID:4110	parasitic ectoparasitic infectious disease	Disease
+DOID:4123	nail disease	Disease
+DOID:4131	erythrasma	Disease
+DOID:4136	myxosarcoma	Disease
+DOID:4137	common bile duct disease	Disease
+DOID:4138	bile duct disease	Disease
+DOID:4140	biliary dyskinesia	Disease
+DOID:4141	intraorbital meningioma	Disease
+DOID:4143	orbital cancer	Disease
+DOID:4154	dentinogenesis imperfecta	Disease
+DOID:4159	skin cancer	Disease
+DOID:4163	ganglioneuroblastoma	Disease
+DOID:4166	syphilis	Disease
+DOID:418	systemic scleroderma	Disease
+DOID:4183	pseudopseudohypoparathyroidism	Disease
+DOID:4184	pseudohypoparathyroidism	Disease
+DOID:4186	articulation disorder	Disease
+DOID:4188	echolalia	Disease
+DOID:4189	mutism	Disease
+DOID:419	scleroderma	Disease
+DOID:4193	intracranial thrombosis	Disease
+DOID:4194	glucose metabolism disease	Disease
+DOID:4195	hyperglycemia	Disease
+DOID:4196	femoral neuropathy	Disease
+DOID:420	hypertrichosis	Disease
+DOID:4201	peroneal neuropathy	Disease
+DOID:4203	brain stem cancer	Disease
+DOID:4205	cerebellum cancer	Disease
+DOID:421	hair disease	Disease
+DOID:4210	clear cell meningioma	Disease
+DOID:4217	malignant ovarian Brenner tumor	Disease
+DOID:422	congenital structural myopathy	Disease
+DOID:4223	pyoderma	Disease
+DOID:4226	endometrial stromal sarcoma	Disease
+DOID:423	myopathy	Disease
+DOID:4235	spindle cell sarcoma	Disease
+DOID:4236	carcinosarcoma	Disease
+DOID:4247	coronary restenosis	Disease
+DOID:4248	coronary stenosis	Disease
+DOID:4249	Gerstmann-Straussler-Scheinker syndrome	Disease
+DOID:4251	conjunctival disease	Disease
+DOID:4252	Alexander disease	Disease
+DOID:4253	melorheostosis	Disease
+DOID:4254	osteosclerosis	Disease
+DOID:4257	Caffey disease	Disease
+DOID:4258	Weissenbacher-Zweymuller syndrome	Disease
+DOID:4260	gait apraxia	Disease
+DOID:4265	angiomyoma	Disease
+DOID:4267	akinetic mutism	Disease
+DOID:4270	encephalitozoonosis	Disease
+DOID:4271	microsporidiosis	Disease
+DOID:4297	scimitar syndrome	Disease
+DOID:4305	bone giant cell tumor	Disease
+DOID:4306	radiculopathy	Disease
+DOID:4307	polyradiculopathy	Disease
+DOID:4308	polyradiculoneuropathy	Disease
+DOID:431	myofascial pain syndrome	Disease
+DOID:4313	epidermolysis bullosa acquisita	Disease
+DOID:4322	pilar sheath acanthoma	Disease
+DOID:4325	Ebola hemorrhagic fever	Disease
+DOID:4329	Erdheim-Chester disease	Disease
+DOID:4330	non-Langerhans-cell histiocytosis	Disease
+DOID:4331	burning mouth syndrome	Disease
+DOID:4333	parovarian cyst	Disease
+DOID:4336	tinea favosa	Disease
+DOID:4337	tinea capitis	Disease
+DOID:4347	lymphocele	Disease
+DOID:4362	cervical cancer	Disease
+DOID:437	myasthenia gravis	Disease
+DOID:4371	Schnitzler syndrome	Disease
+DOID:4372	intracranial embolism	Disease
+DOID:4376	milk allergy	Disease
+DOID:4377	egg allergy	Disease
+DOID:438	autoimmune disease of the nervous system	Disease
+DOID:439	neuromuscular junction disease	Disease
+DOID:4394	reticulohistiocytic granuloma	Disease
+DOID:4398	pustulosis of palm and sole	Disease
+DOID:440	neuromuscular disease	Disease
+DOID:4404	occupational dermatitis	Disease
+DOID:4407	phototoxic dermatitis	Disease
+DOID:4409	folliculitis	Disease
+DOID:4411	hepatitis E	Disease
+DOID:4415	fibrous histiocytoma	Disease
+DOID:4418	cutaneous fibrous histiocytoma	Disease
+DOID:4424	juvenile xanthogranuloma	Disease
+DOID:4428	dyslexia	Disease
+DOID:4440	seminoma	Disease
+DOID:4441	dysgerminoma	Disease
+DOID:4447	cystoid macular edema	Disease
+DOID:4449	macular retinal edema	Disease
+DOID:445	Bartter disease	Disease
+DOID:4450	renal cell carcinoma	Disease
+DOID:446	primary hyperaldosteronism	Disease
+DOID:4464	collecting duct carcinoma	Disease
+DOID:4465	papillary renal cell carcinoma	Disease
+DOID:4467	clear cell renal cell carcinoma	Disease
+DOID:4468	clear cell adenocarcinoma	Disease
+DOID:447	renal tubular transport disease	Disease
+DOID:4471	chromophobe renal cell carcinoma	Disease
+DOID:4473	sarcomatoid renal cell carcinoma	Disease
+DOID:4479	pseudohypoaldosteronism	Disease
+DOID:4480	achondroplasia	Disease
+DOID:4481	allergic rhinitis	Disease
+DOID:4483	rhinitis	Disease
+DOID:4491	persian gulf syndrome	Disease
+DOID:4492	avian influenza	Disease
+DOID:450	myotonic disease	Disease
+DOID:4501	orofaciodigital syndrome	Disease
+DOID:452	pleomorphic adenoma	Disease
+DOID:4531	mucoepidermoid carcinoma	Disease
+DOID:4534	Hallermann-Streiff syndrome	Disease
+DOID:4535	hypotrichosis	Disease
+DOID:4540	dysgraphia	Disease
+DOID:4541	nominal aphasia	Disease
+DOID:4543	retrograde amnesia	Disease
+DOID:4551	anus benign neoplasm	Disease
+DOID:4552	large cell carcinoma	Disease
+DOID:4558	Ludwig's angina	Disease
+DOID:456	ascariasis	Disease
+DOID:4562	subacute bacterial endocarditis	Disease
+DOID:4587	benign meningioma	Disease
+DOID:4588	secretory meningioma	Disease
+DOID:4594	microcystic meningioma	Disease
+DOID:4603	epidermolytic hyperkeratosis	Disease
+DOID:4606	bile duct cancer	Disease
+DOID:4607	biliary tract cancer	Disease
+DOID:4608	common bile duct neoplasm	Disease
+DOID:461	muscle benign neoplasm	Disease
+DOID:4610	intestinal benign neoplasm	Disease
+DOID:4613	ulnar neuropathy	Disease
+DOID:4618	maxillary cancer	Disease
+DOID:4621	holoprosencephaly	Disease
+DOID:4624	Ollier disease	Disease
+DOID:4627	ideomotor apraxia	Disease
+DOID:4644	epidermolysis bullosa simplex	Disease
+DOID:4645	retinal cancer	Disease
+DOID:4648	familial retinoblastoma	Disease
+DOID:4659	extracutaneous mastocytoma	Disease
+DOID:4660	indolent systemic mastocytosis	Disease
+DOID:4661	multiple chemical sensitivity	Disease
+DOID:4662	thalamic disease	Disease
+DOID:4674	androgen insensitivity syndrome	Disease
+DOID:4676	uremia	Disease
+DOID:4677	keratitis	Disease
+DOID:468	intramuscular hemangioma	Disease
+DOID:4692	endophthalmitis	Disease
+DOID:4697	perineurioma	Disease
+DOID:47	prostate disease	Disease
+DOID:4702	mongolian spot	Disease
+DOID:4706	infratentorial cancer	Disease
+DOID:4723	intracranial hypotension	Disease
+DOID:4724	brain edema	Disease
+DOID:4730	vasomotor rhinitis	Disease
+DOID:4731	atrophic rhinitis	Disease
+DOID:4734	calciphylaxis	Disease
+DOID:474	histiocytoid hemangioma	Disease
+DOID:4744	placenta accreta	Disease
+DOID:4751	striatonigral degeneration	Disease
+DOID:4752	multiple system atrophy	Disease
+DOID:4762	vasculogenic impotence	Disease
+DOID:4765	pulmonary blastoma	Disease
+DOID:4772	mesoblastic nephroma	Disease
+DOID:4773	congenital mesoblastic nephroma	Disease
+DOID:479	angiokeratoma	Disease
+DOID:4790	medulloepithelioma	Disease
+DOID:4794	ependymoblastoma	Disease
+DOID:4796	space motion sickness	Disease
+DOID:4798	aggressive systemic mastocytosis	Disease
+DOID:48	male reproductive system disease	Disease
+DOID:480	movement disease	Disease
+DOID:4810	cerebrotendinous xanthomatosis	Disease
+DOID:4817	ganglioneuroma	Disease
+DOID:483	cavernous hemangioma	Disease
+DOID:4830	adenosquamous carcinoma	Disease
+DOID:4837	Gorham's disease	Disease
+DOID:484	vascular hemostatic disease	Disease
+DOID:4843	subependymal glioma	Disease
+DOID:4844	benign ependymoma	Disease
+DOID:4851	pilocytic astrocytoma	Disease
+DOID:4866	salivary gland adenoid cystic carcinoma	Disease
+DOID:4873	anterior horn cell disease	Disease
+DOID:4885	Colorado tick fever	Disease
+DOID:4889	lymph node tuberculosis	Disease
+DOID:4890	juvenile myoclonic epilepsy	Disease
+DOID:4897	bile duct carcinoma	Disease
+DOID:4903	granular cell carcinoma	Disease
+DOID:4908	anal carcinoma	Disease
+DOID:4916	pituitary carcinoma	Disease
+DOID:4926	bronchiolo-alveolar adenocarcinoma	Disease
+DOID:4927	Klatskin's tumor	Disease
+DOID:4928	intrahepatic cholangiocarcinoma	Disease
+DOID:4929	tubular adenocarcinoma	Disease
+DOID:4947	cholangiocarcinoma	Disease
+DOID:4952	postpoliomyelitis syndrome	Disease
+DOID:4953	poliomyelitis	Disease
+DOID:4959	epidermolysis bullosa dystrophica	Disease
+DOID:4960	bone marrow cancer	Disease
+DOID:4961	bone marrow disease	Disease
+DOID:4962	pericardial tuberculosis	Disease
+DOID:4968	Nelson syndrome	Disease
+DOID:4969	Gerstmann syndrome	Disease
+DOID:4970	prosopagnosia	Disease
+DOID:4971	myelofibrosis	Disease
+DOID:4976	elephantiasis	Disease
+DOID:4977	lymphedema	Disease
+DOID:4988	alcoholic pancreatitis	Disease
+DOID:4989	pancreatitis	Disease
+DOID:4990	essential tremor	Disease
+DOID:4992	optic nerve glioma	Disease
+DOID:4997	Camurati-Engelmann disease	Disease
+DOID:4998	trichorhinophalangeal syndrome type II	Disease
+DOID:50	thyroid gland disease	Disease
+DOID:5003	eunuchism	Disease
+DOID:5032	pineal gland cancer	Disease
+DOID:5039	myoblastoma	Disease
+DOID:5041	esophageal cancer	Disease
+DOID:5050	Ehrlich tumor carcinoma	Disease
+DOID:5052	melioidosis	Disease
+DOID:5062	phencyclidine abuse	Disease
+DOID:5075	myxopapillary ependymoma	Disease
+DOID:5076	mixed glioma	Disease
+DOID:5077	subependymal giant cell astrocytoma	Disease
+DOID:5078	ganglioglioma	Disease
+DOID:5082	liver cirrhosis	Disease
+DOID:5093	thoracic cancer	Disease
+DOID:5101	auricular cancer	Disease
+DOID:5112	swayback	Disease
+DOID:5113	nutritional deficiency disease	Disease
+DOID:5119	ovarian cyst	Disease
+DOID:5138	leiomyomatosis	Disease
+DOID:5151	plexiform neurofibroma	Disease
+DOID:5154	borna disease	Disease
+DOID:5158	pleural cancer	Disease
+DOID:5160	arteriosclerosis obliterans	Disease
+DOID:5162	arteriolosclerosis	Disease
+DOID:519	aortitis	Disease
+DOID:5199	ureteral obstruction	Disease
+DOID:520	aortic disease	Disease
+DOID:5212	congenital disorder of glycosylation	Disease
+DOID:5213	chronic inflammatory demyelinating polyradiculoneuropathy	Disease
+DOID:5222	acute necrotizing encephalitis	Disease
+DOID:5223	infertility	Disease
+DOID:5241	hemangioblastoma	Disease
+DOID:525	central nervous system vasculitis	Disease
+DOID:526	human immunodeficiency virus infectious disease	Disease
+DOID:5264	epithelioid leiomyosarcoma	Disease
+DOID:5268	myxoid leiomyosarcoma	Disease
+DOID:528	hydrarthrosis	Disease
+DOID:529	blepharospasm	Disease
+DOID:5295	intestinal disease	Disease
+DOID:530	eyelid disease	Disease
+DOID:5327	retinal detachment	Disease
+DOID:5330	dental pulp disease	Disease
+DOID:5337	epulis	Disease
+DOID:5338	gingival hypertrophy	Disease
+DOID:5340	anterograde amnesia	Disease
+DOID:5353	colonic disease	Disease
+DOID:5363	myxoid liposarcoma	Disease
+DOID:5364	pulmonary coin lesion	Disease
+DOID:538	internuclear ophthalmoplegia	Disease
+DOID:5381	bile duct adenoma	Disease
+DOID:5389	oxyphilic adenoma	Disease
+DOID:539	ophthalmoplegia	Disease
+DOID:5392	acidophil adenoma	Disease
+DOID:5394	prolactinoma	Disease
+DOID:540	strabismus	Disease
+DOID:5403	microcystic adenoma	Disease
+DOID:5408	Paget's disease of bone	Disease
+DOID:5409	lung small cell carcinoma	Disease
+DOID:5425	ovarian hyperstimulation syndrome	Disease
+DOID:5426	premature ovarian failure	Disease
+DOID:543	dystonia	Disease
+DOID:5434	scrapie	Disease
+DOID:5435	variant Creutzfeldt-Jakob disease	Disease
+DOID:5442	eccrine acrospiroma	Disease
+DOID:5453	pulmonary venoocclusive disease	Disease
+DOID:5463	cochlear disease	Disease
+DOID:5467	conjunctival cancer	Disease
+DOID:5485	synovial sarcoma	Disease
+DOID:5500	cellular ependymoma	Disease
+DOID:5502	lice infestation	Disease
+DOID:5505	papillary ependymoma	Disease
+DOID:552	pneumonia	Disease
+DOID:5546	femoral cancer	Disease
+DOID:5559	mediastinal cancer	Disease
+DOID:5563	malignant teratoma	Disease
+DOID:557	kidney disease	Disease
+DOID:5572	Beckwith-Wiedemann syndrome	Disease
+DOID:5574	VIPoma	Disease
+DOID:5577	gastrinoma	Disease
+DOID:5587	Volkmann contracture	Disease
+DOID:5603	acute T cell leukemia	Disease
+DOID:5608	dental pulp calcification	Disease
+DOID:5612	spinal cancer	Disease
+DOID:5614	eye disease	Disease
+DOID:5656	cranial nerve disease	Disease
+DOID:5672	large intestine cancer	Disease
+DOID:5675	cribriform carcinoma	Disease
+DOID:5679	retinal disease	Disease
+DOID:5688	Werner syndrome	Disease
+DOID:57	aortic valve insufficiency	Disease
+DOID:5702	pleomorphic liposarcoma	Disease
+DOID:571	median neuropathy	Disease
+DOID:5723	optic atrophy	Disease
+DOID:573	nerve compression syndrome	Disease
+DOID:5733	salpingitis	Disease
+DOID:574	peripheral nervous system disease	Disease
+DOID:5759	sebaceous gland neoplasm	Disease
+DOID:576	proteinuria	Disease
+DOID:5766	pulmonary sclerosing hemangioma	Disease
+DOID:5773	oral submucous fibrosis	Disease
+DOID:5804	discrete subaortic stenosis	Disease
+DOID:5805	subvalvular aortic stenosis	Disease
+DOID:5812	MHC class II deficiency	Disease
+DOID:582	hemoglobinuria	Disease
+DOID:583	hemolytic anemia	Disease
+DOID:5842	testis seminoma	Disease
+DOID:5844	myocardial infarction	Disease
+DOID:5845	anterolateral myocardial infarction	Disease
+DOID:585	nephrolithiasis	Disease
+DOID:5850	inferior myocardial infarction	Disease
+DOID:5855	anteroseptal myocardial infarction	Disease
+DOID:5870	eosinophilic pneumonia	Disease
+DOID:5875	retroperitoneal cancer	Disease
+DOID:589	congenital hemolytic anemia	Disease
+DOID:5940	malignant peripheral nerve sheath tumor	Disease
+DOID:5998	microglandular adenosis	Disease
+DOID:6000	congestive heart failure	Disease
+DOID:6050	esophageal disease	Disease
+DOID:606	Brown-Sequard syndrome	Disease
+DOID:607	paraplegia	Disease
+DOID:6114	cerebral convexity meningioma	Disease
+DOID:612	primary immunodeficiency disease	Disease
+DOID:6128	gliomatosis cerebri	Disease
+DOID:6132	bronchitis	Disease
+DOID:614	lymphopenia	Disease
+DOID:615	leukopenia	Disease
+DOID:6193	epithelioid sarcoma	Disease
+DOID:6195	conjunctivitis	Disease
+DOID:6196	reactive arthritis	Disease
+DOID:620	blood protein disease	Disease
+DOID:6204	follicular adenoma	Disease
+DOID:6255	growth hormone secreting pituitary adenoma	Disease
+DOID:6262	follicular dendritic cell sarcoma	Disease
+DOID:627	severe combined immunodeficiency	Disease
+DOID:630	genetic disease	Disease
+DOID:631	fibromyalgia	Disease
+DOID:633	myositis	Disease
+DOID:635	acquired immunodeficiency syndrome	Disease
+DOID:636	central pontine myelinolysis	Disease
+DOID:6364	migraine	Disease
+DOID:6376	hypersplenism	Disease
+DOID:639	acute disseminated encephalomyelitis	Disease
+DOID:640	encephalomyelitis	Disease
+DOID:6406	double outlet right ventricle	Disease
+DOID:6419	tetralogy of Fallot	Disease
+DOID:6420	pulmonary valve stenosis	Disease
+DOID:643	progressive multifocal leukoencephalopathy	Disease
+DOID:6432	pulmonary hypertension	Disease
+DOID:6457	Cowden disease	Disease
+DOID:646	viral encephalitis	Disease
+DOID:648	kuru	Disease
+DOID:649	prion disease	Disease
+DOID:6498	seborrheic keratosis	Disease
+DOID:65	connective tissue disease	Disease
+DOID:6536	plasma cell neoplasm	Disease
+DOID:654	overnutrition	Disease
+DOID:6543	acne	Disease
+DOID:6548	angiomatous meningioma	Disease
+DOID:655	inherited metabolic disorder	Disease
+DOID:657	adenoma	Disease
+DOID:6576	childhood optic nerve glioma	Disease
+DOID:6590	spondylitis	Disease
+DOID:660	adrenal cortex cancer	Disease
+DOID:6652	diffuse idiopathic skeletal hyperostosis	Disease
+DOID:6676	Froelich syndrome	Disease
+DOID:668	myositis ossificans	Disease
+DOID:6682	spondylolisthesis	Disease
+DOID:6692	Barre-Lieou syndrome	Disease
+DOID:670	amphetamine abuse	Disease
+DOID:6712	anterior spinal artery syndrome	Disease
+DOID:6713	cerebrovascular disease	Disease
+DOID:672	spleen cancer	Disease
+DOID:6725	spinal stenosis	Disease
+DOID:6726	fibrillary astrocytoma	Disease
+DOID:674	cleft palate	Disease
+DOID:678	progressive supranuclear palsy	Disease
+DOID:679	basal ganglia disease	Disease
+DOID:680	tauopathy	Disease
+DOID:681	progressive bulbar palsy	Disease
+DOID:6811	juvenile pilocytic astrocytoma	Disease
+DOID:682	compartment syndrome	Disease
+DOID:683	motor neuritis	Disease
+DOID:6869	parasagittal meningioma	Disease
+DOID:687	hepatoblastoma	Disease
+DOID:688	embryonal cancer	Disease
+DOID:6925	peroneal nerve paralysis	Disease
+DOID:6929	retinal edema	Disease
+DOID:693	dental enamel hypoplasia	Disease
+DOID:6977	pancreatic cholera	Disease
+DOID:698	dentin sensitivity	Disease
+DOID:699	mitochondrial myopathy	Disease
+DOID:700	mitochondrial metabolism disease	Disease
+DOID:7005	gemistocytic astrocytoma	Disease
+DOID:7007	childhood cerebral astrocytoma	Disease
+DOID:7008	protoplasmic astrocytoma	Disease
+DOID:7033	anisakiasis	Disease
+DOID:705	Leber hereditary optic neuropathy	Disease
+DOID:707	B-cell lymphoma	Disease
+DOID:7147	ankylosing spondylitis	Disease
+DOID:7148	rheumatoid arthritis	Disease
+DOID:715	T-cell leukemia	Disease
+DOID:7165	subacute thyroiditis	Disease
+DOID:7166	thyroiditis	Disease
+DOID:718	autoimmune hemolytic anemia	Disease
+DOID:7188	autoimmune thyroiditis	Disease
+DOID:7210	psammomatous meningioma	Disease
+DOID:7211	fibrous meningioma	Disease
+DOID:7212	meningothelial meningioma	Disease
+DOID:7213	transitional meningioma	Disease
+DOID:727	premenstrual tension	Disease
+DOID:7280	congenital epulis	Disease
+DOID:730	urethral benign neoplasm	Disease
+DOID:7305	astroblastoma	Disease
+DOID:731	urinary system benign neoplasm	Disease
+DOID:732	urethral disease	Disease
+DOID:734	urethra cancer	Disease
+DOID:7365	Kimura disease	Disease
+DOID:7398	cerebral primitive neuroectodermal tumor	Disease
+DOID:74	hematopoietic system disease	Disease
+DOID:7427	anthrax disease	Disease
+DOID:7457	enterobiasis	Disease
+DOID:746	adenomatoid tumor	Disease
+DOID:7475	diverticulitis	Disease
+DOID:7489	Osgood-Schlatter's disease	Disease
+DOID:75	lymphatic system disease	Disease
+DOID:750	peptic ulcer disease	Disease
+DOID:752	peptic ulcer perforation	Disease
+DOID:7551	gonorrhea	Disease
+DOID:7558	glossopharyngeal motor neuropathy	Disease
+DOID:758	situs inversus	Disease
+DOID:76	stomach disease	Disease
+DOID:7608	parathyroid adenoma	Disease
+DOID:7633	macular holes	Disease
+DOID:767	muscular atrophy	Disease
+DOID:768	retinoblastoma	Disease
+DOID:769	neuroblastoma	Disease
+DOID:7693	abdominal aortic aneurysm	Disease
+DOID:77	gastrointestinal system disease	Disease
+DOID:7725	epilepsy with generalized tonic-clonic seizures	Disease
+DOID:7765	Coats disease	Disease
+DOID:780	placenta disease	Disease
+DOID:784	chronic kidney disease	Disease
+DOID:786	laryngeal disease	Disease
+DOID:7880	luteoma	Disease
+DOID:7894	mite infestation	Disease
+DOID:790	ocular hypotension	Disease
+DOID:7912	mixed oligodendroglioma-astrocytoma	Disease
+DOID:799	varicose veins	Disease
+DOID:7997	thyrotoxicosis	Disease
+DOID:7998	hyperthyroidism	Disease
+DOID:8007	Pancoast tumor	Disease
+DOID:801	hemarthrosis	Disease
+DOID:8057	olfactory groove meningioma	Disease
+DOID:809	cocaine abuse	Disease
+DOID:811	lipodystrophy	Disease
+DOID:8125	osteochondrosis	Disease
+DOID:813	septic arthritis	Disease
+DOID:819	mediastinitis	Disease
+DOID:820	myocarditis	Disease
+DOID:823	periapical periodontitis	Disease
+DOID:824	periodontitis	Disease
+DOID:8283	peritonitis	Disease
+DOID:8295	scabies	Disease
+DOID:833	auditory system cancer	Disease
+DOID:8337	appendicitis	Disease
+DOID:8398	osteoarthritis	Disease
+DOID:8399	trombiculiasis	Disease
+DOID:84	osteochondritis dissecans	Disease
+DOID:841	extrinsic allergic alveolitis	Disease
+DOID:8432	polycythemia	Disease
+DOID:8437	intestinal obstruction	Disease
+DOID:8438	afferent loop syndrome	Disease
+DOID:8439	postgastrectomy syndrome	Disease
+DOID:8440	ileus	Disease
+DOID:8442	paralytic ileus	Disease
+DOID:8445	intestinal volvulus	Disease
+DOID:8446	intussusception	Disease
+DOID:8454	ariboflavinosis	Disease
+DOID:8455	pyridoxine deficiency anemia	Disease
+DOID:8456	choline deficiency disease	Disease
+DOID:8457	pellagra	Disease
+DOID:8461	Aicardi syndrome	Disease
+DOID:8463	corneal ulcer	Disease
+DOID:8465	retinoschisis	Disease
+DOID:8466	retinal degeneration	Disease
+DOID:8469	influenza	Disease
+DOID:8472	localized scleroderma	Disease
+DOID:8476	Whipple disease	Disease
+DOID:8478	actinomycosis	Disease
+DOID:848	arthritis	Disease
+DOID:8483	retinal artery occlusion	Disease
+DOID:8488	polyhydramnios	Disease
+DOID:8499	night blindness	Disease
+DOID:850	lung disease	Disease
+DOID:8501	fundus dystrophy	Disease
+DOID:8504	impetigo	Disease
+DOID:8505	dermatitis herpetiformis	Disease
+DOID:8506	bullous pemphigoid	Disease
+DOID:8508	subcorneal pustular dermatosis	Disease
+DOID:8515	Cor pulmonale	Disease
+DOID:853	polymyalgia rheumatica	Disease
+DOID:8533	hypopharynx cancer	Disease
+DOID:8534	gastroesophageal reflux disease	Disease
+DOID:8536	herpes zoster	Disease
+DOID:8538	reticulosarcoma	Disease
+DOID:854	collagen disease	Disease
+DOID:8541	Sezary's disease	Disease
+DOID:8543	Hodgkin's lymphoma, lymphocytic-histiocytic predominance	Disease
+DOID:8544	chronic fatigue syndrome	Disease
+DOID:8545	malignant hyperthermia	Disease
+DOID:8552	chronic myeloid leukemia	Disease
+DOID:8553	pyoderma gangrenosum	Disease
+DOID:856	biotinidase deficiency	Disease
+DOID:8564	lip cancer	Disease
+DOID:8566	herpes simplex	Disease
+DOID:8567	Hodgkin's lymphoma	Disease
+DOID:8568	infectious mononucleosis	Disease
+DOID:857	multiple carboxylase deficiency	Disease
+DOID:8573	lichen nitidus	Disease
+DOID:8577	ulcerative colitis	Disease
+DOID:8580	malignant histiocytosis	Disease
+DOID:8584	Burkitt lymphoma	Disease
+DOID:8593	chronic monocytic leukemia	Disease
+DOID:8596	scarlet fever	Disease
+DOID:8616	Peyronie's disease	Disease
+DOID:8619	recurrent hypersomnia	Disease
+DOID:8622	measles	Disease
+DOID:8628	Hodgkin's lymphoma, lymphocytic depletion	Disease
+DOID:863	nervous system disease	Disease
+DOID:8632	Kaposi's sarcoma	Disease
+DOID:864	phlebitis	Disease
+DOID:8643	duodenitis	Disease
+DOID:8645	subacute delirium	Disease
+DOID:8649	tongue cancer	Disease
+DOID:865	vasculitis	Disease
+DOID:8651	Hodgkin's granuloma	Disease
+DOID:8654	Hodgkin's lymphoma, mixed cellularity	Disease
+DOID:8659	chickenpox	Disease
+DOID:8675	lymphosarcoma	Disease
+DOID:8677	perinatal necrotizing enterocolitis	Disease
+DOID:8681	paraneoplastic polyneuropathy	Disease
+DOID:8683	myeloid sarcoma	Disease
+DOID:869	cholesteatoma	Disease
+DOID:8691	mycosis fungoides	Disease
+DOID:8692	myeloid leukemia	Disease
+DOID:8704	genital herpes	Disease
+DOID:8712	neurofibromatosis	Disease
+DOID:8717	decubitus ulcer	Disease
+DOID:8719	in situ carcinoma	Disease
+DOID:8725	vascular dementia	Disease
+DOID:8736	smallpox	Disease
+DOID:874	bacterial pneumonia	Disease
+DOID:8741	seborrheic dermatitis	Disease
+DOID:8743	erythema infectiosum	Disease
+DOID:8757	gastric mucosal hypertrophy	Disease
+DOID:876	pyomyositis	Disease
+DOID:8771	contagious pustular dermatitis	Disease
+DOID:8778	Crohn's disease	Disease
+DOID:8781	rubella	Disease
+DOID:8805	intermediate coronary syndrome	Disease
+DOID:883	parasitic helminthiasis infectious disease	Disease
+DOID:884	metagonimiasis	Disease
+DOID:885	fascioliasis	Disease
+DOID:8858	tonsil cancer	Disease
+DOID:8864	acute monocytic leukemia	Disease
+DOID:8866	actinic keratosis	Disease
+DOID:8867	molluscum contagiosum	Disease
+DOID:8869	neuromyelitis optica	Disease
+DOID:888	fasciolopsiasis	Disease
+DOID:8881	rosacea	Disease
+DOID:8886	chorioretinitis	Disease
+DOID:8892	pityriasis rosea	Disease
+DOID:8893	psoriasis	Disease
+DOID:890	mitochondrial encephalomyopathy	Disease
+DOID:891	progressive myoclonus epilepsy	Disease
+DOID:8924	autoimmune thrombocytopenic purpura	Disease
+DOID:8927	learning disability	Disease
+DOID:8929	atrophic gastritis	Disease
+DOID:893	Wilson disease	Disease
+DOID:8941	seborrheic infantile dermatitis	Disease
+DOID:8947	diabetic retinopathy	Disease
+DOID:8955	sideroblastic anemia	Disease
+DOID:896	metal metabolism disorder	Disease
+DOID:8970	subacute sclerosing panencephalitis	Disease
+DOID:898	autosomal dominant polycystic kidney disease	Disease
+DOID:8986	narcolepsy	Disease
+DOID:899	choledochal cyst	Disease
+DOID:8991	cervix uteri carcinoma in situ	Disease
+DOID:8997	polycythemia vera	Disease
+DOID:900	hepatopulmonary syndrome	Disease
+DOID:9007	sudden infant death syndrome	Disease
+DOID:9008	psoriatic arthritis	Disease
+DOID:9036	parotid gland cancer	Disease
+DOID:906	peroxisomal disease	Disease
+DOID:9060	pityriasis versicolor	Disease
+DOID:9065	leishmaniasis	Disease
+DOID:9074	systemic lupus erythematosus	Disease
+DOID:9080	macroglobulinemia	Disease
+DOID:9088	parapsoriasis	Disease
+DOID:9091	REM sleep behavior disorder	Disease
+DOID:9111	cutaneous leishmaniasis	Disease
+DOID:9119	acute myeloid leukemia	Disease
+DOID:9120	amyloidosis	Disease
+DOID:9123	eczema herpeticum	Disease
+DOID:913	atrophic muscular disease	Disease
+DOID:914	peliosis hepatis	Disease
+DOID:9146	visceral leishmaniasis	Disease
+DOID:9153	variola minor	Disease
+DOID:9159	gas gangrene	Disease
+DOID:9164	achalasia	Disease
+DOID:9169	Wiskott-Aldrich syndrome	Disease
+DOID:9181	amebiasis	Disease
+DOID:9182	pemphigus	Disease
+DOID:9192	dyskinesia of esophagus	Disease
+DOID:92	speech disorder	Disease
+DOID:9201	lichen planus	Disease
+DOID:9206	Barrett's esophagus	Disease
+DOID:9207	periodic limb movement disorder	Disease
+DOID:9210	geniculate herpes zoster	Disease
+DOID:9212	pityriasis rubra pilaris	Disease
+DOID:9220	central sleep apnea	Disease
+DOID:9230	pompholyx	Disease
+DOID:9240	erythromelalgia	Disease
+DOID:9245	Alagille syndrome	Disease
+DOID:9246	cerebral amyloid angiopathy	Disease
+DOID:9250	acrocallosal syndrome	Disease
+DOID:9252	amino acid metabolic disorder	Disease
+DOID:9253	gastrointestinal stromal tumor	Disease
+DOID:9255	frontotemporal dementia	Disease
+DOID:9256	colorectal cancer	Disease
+DOID:9258	Waardenburg's syndrome	Disease
+DOID:9261	nasopharynx carcinoma	Disease
+DOID:9263	homocystinuria	Disease
+DOID:9266	cystinuria	Disease
+DOID:9267	urea cycle disorder	Disease
+DOID:9268	glycine encephalopathy	Disease
+DOID:9269	maple syrup urine disease	Disease
+DOID:9270	alkaptonuria	Disease
+DOID:9271	ornithine carbamoyltransferase deficiency	Disease
+DOID:9273	citrullinemia	Disease
+DOID:9274	hyperlysinemia	Disease
+DOID:9277	primary cerebellar degeneration	Disease
+DOID:9278	hyperargininemia	Disease
+DOID:9279	hyperhomocysteinemia	Disease
+DOID:9280	carbamoyl phosphate synthetase I deficiency disease	Disease
+DOID:9281	phenylketonuria	Disease
+DOID:9282	ocular hypertension	Disease
+DOID:9286	priapism	Disease
+DOID:9296	cleft lip	Disease
+DOID:9297	lip disease	Disease
+DOID:93	language disorder	Disease
+DOID:930	orbital disease	Disease
+DOID:9305	splenic tuberculosis	Disease
+DOID:9306	mechanical strabismus	Disease
+DOID:9307	rectal prolapse	Disease
+DOID:9317	lymphangitis	Disease
+DOID:9335	scotoma	Disease
+DOID:934	viral infectious disease	Disease
+DOID:9351	diabetes mellitus	Disease
+DOID:9352	type 2 diabetes mellitus	Disease
+DOID:936	brain disease	Disease
+DOID:9362	status asthmaticus	Disease
+DOID:9368	keratoconjunctivitis	Disease
+DOID:9369	orbital plasma cell granuloma	Disease
+DOID:9370	exophthalmos	Disease
+DOID:9383	iridocyclitis	Disease
+DOID:9392	tracheitis	Disease
+DOID:9395	croup	Disease
+DOID:9398	epiglottitis	Disease
+DOID:9402	epididymitis	Disease
+DOID:9406	hypopituitarism	Disease
+DOID:9409	diabetes insipidus	Disease
+DOID:9423	blepharitis	Disease
+DOID:9427	hypertensive encephalopathy	Disease
+DOID:9428	intracranial hypertension	Disease
+DOID:9432	renal glycosuria	Disease
+DOID:9446	cholangitis	Disease
+DOID:9452	fatty liver disease	Disease
+DOID:9455	lipid storage disease	Disease
+DOID:946	dientamoebiasis	Disease
+DOID:9467	nail-patella syndrome	Disease
+DOID:9470	bacterial meningitis	Disease
+DOID:9471	meningitis	Disease
+DOID:9476	Sheehan syndrome	Disease
+DOID:9477	pulmonary embolism	Disease
+DOID:9478	postpartum depression	Disease
+DOID:9487	Meckel's diverticulum	Disease
+DOID:9498	pulmonary eosinophilia	Disease
+DOID:950	dacryoadenitis	Disease
+DOID:9500	leukocyte disease	Disease
+DOID:9503	Loeffler syndrome	Disease
+DOID:9505	cannabis abuse	Disease
+DOID:9507	ethmoid sinusitis	Disease
+DOID:9513	plasmacytic leukemia	Disease
+DOID:9521	Laron syndrome	Disease
+DOID:9531	latent syphilis	Disease
+DOID:9537	Lassa fever	Disease
+DOID:9538	multiple myeloma	Disease
+DOID:9540	vascular skin disease	Disease
+DOID:9553	adrenal gland disease	Disease
+DOID:9561	nasopharyngeal disease	Disease
+DOID:9562	primary ciliary dyskinesia	Disease
+DOID:9563	bronchiectasis	Disease
+DOID:9565	dextrocardia	Disease
+DOID:9574	choanal atresia	Disease
+DOID:9588	encephalitis	Disease
+DOID:9597	Krukenberg carcinoma	Disease
+DOID:9598	fasciitis	Disease
+DOID:96	staphyloenterotoxemia	Disease
+DOID:9600	plantar fasciitis	Disease
+DOID:9602	necrotizing fasciitis	Disease
+DOID:962	neurofibroma	Disease
+DOID:9620	vesicoureteral reflux	Disease
+DOID:9631	Pelger-Huet anomaly	Disease
+DOID:9637	stomatitis	Disease
+DOID:9643	babesiosis	Disease
+DOID:9649	congenital nystagmus	Disease
+DOID:9650	pathologic nystagmus	Disease
+DOID:9651	systolic heart failure	Disease
+DOID:9663	aphthous stomatitis	Disease
+DOID:9667	placental abruption	Disease
+DOID:9672	noma	Disease
+DOID:9673	ulcerative stomatitis	Disease
+DOID:9675	pulmonary emphysema	Disease
+DOID:9681	cervical incompetence	Disease
+DOID:9682	yellow fever	Disease
+DOID:970	tenosynovitis	Disease
+DOID:9700	bacterial conjunctivitis	Disease
+DOID:971	tendinitis	Disease
+DOID:9719	proliferative vitreoretinopathy	Disease
+DOID:9726	vitreous detachment	Disease
+DOID:9733	renal tuberculosis	Disease
+DOID:9740	postcholecystectomy syndrome	Disease
+DOID:9741	biliary tract disease	Disease
+DOID:9743	diabetic neuropathy	Disease
+DOID:9744	type 1 diabetes mellitus	Disease
+DOID:9746	hemorrhoid	Disease
+DOID:9765	emphysematous cholecystitis	Disease
+DOID:9767	myocardial stunning	Disease
+DOID:9768	heart aneurysm	Disease
+DOID:9775	diastolic heart failure	Disease
+DOID:9778	irritable bowel syndrome	Disease
+DOID:9784	trichinosis	Disease
+DOID:9786	bulbar polio	Disease
+DOID:9790	toxocariasis	Disease
+DOID:9801	tuberculous peritonitis	Disease
+DOID:9808	Goodpasture syndrome	Disease
+DOID:9809	hypersensitivity vasculitis	Disease
+DOID:9810	polyarteritis nodosa	Disease
+DOID:9821	choroideremia	Disease
+DOID:9828	neonatal abstinence syndrome	Disease
+DOID:9834	hyperopia	Disease
+DOID:9835	refractive error	Disease
+DOID:9837	hypertropia	Disease
+DOID:9840	esotropia	Disease
+DOID:9848	endolymphatic hydrops	Disease
+DOID:9849	Meniere's disease	Disease
+DOID:9854	lingual-facial-buccal dyskinesia	Disease
+DOID:9856	congenital syphilis	Disease
+DOID:986	alopecia areata	Disease
+DOID:9861	miliary tuberculosis	Disease
+DOID:9869	hereditary fructose intolerance syndrome	Disease
+DOID:987	alopecia	Disease
+DOID:9870	galactosemia	Disease
+DOID:988	mitral valve prolapse	Disease
+DOID:9884	muscular dystrophy	Disease
+DOID:9892	median arcuate ligament syndrome	Disease
+DOID:9893	periodontosis	Disease
+DOID:9903	meibomian cyst	Disease
+DOID:9931	Waterhouse-Friderichsen syndrome	Disease
+DOID:9938	dacryocystitis	Disease
+DOID:9955	hypoplastic left heart syndrome	Disease
+DOID:9957	periostitis	Disease
+DOID:9958	hemometra	Disease
+DOID:9965	toxoplasmosis	Disease
+DOID:9970	obesity	Disease
+DOID:9972	hypervitaminosis A	Disease
+DOID:9975	cocaine dependence	Disease
+DOID:9976	heroin dependence	Disease
+DOID:9988	tertiary neurosyphilis	Disease
+DOID:999	hypereosinophilic syndrome	Disease
+DOID:9993	hypoglycemia	Disease
