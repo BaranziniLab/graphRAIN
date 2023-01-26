@@ -37,3 +37,8 @@ rain.batch_embedding(
     )
 ```
 **Refer to [run_rain.py](https://github.com/BaranziniLab/graphRAIN/blob/main/run_rain.py) for a full example which you can run in your machine.**
+
+## Sample data provided
+
+[Sample data](https://github.com/BaranziniLab/graphRAIN/tree/main/sample_data) provided is a network of disease and symptom nodes. This is a subnetwork taken from a bigger network called [SPOKE](https://spoke.rbvi.ucsf.edu/).
+The objective of providing this sample data is to let user know about the format of the input files that one should provide to run RAIN algorithm.
