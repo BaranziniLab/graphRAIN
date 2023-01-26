@@ -1,4 +1,4 @@
-config.ini
+
 __pycache__/
 backend/__pycache__
 venv/
@@ -6,3 +6,4 @@ sample_data/
 .ipynb_checkpoints
 backend/.ipynb_checkpoints
 metadata/__pycache__
+notes.txt

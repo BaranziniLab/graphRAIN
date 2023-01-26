@@ -1,8 +1,4 @@
-
 from ._rain import RAIN
-
-
-
 
 
 __all__ = [
