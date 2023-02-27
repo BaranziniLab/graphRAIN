@@ -32,13 +32,13 @@ class RAIN:
         edge_df = edge_df[["source", "edge_type", "target"]]
         edge_df.source = edge_df.source.astype(str)
         edge_df.target = edge_df.target.astype(str)
-        edge_df_ = edge_df.copy()
-        edge_df_.drop("edge_type", axis=1, inplace=True)
-        edge_df_.source = edge_df_.source.astype(str)
-        edge_df_.target = edge_df_.target.astype(str)
-        edge_df_ = pd.DataFrame(np.sort(edge_df_.values, axis=1), index=edge_df_.index, columns=edge_df_.columns).drop_duplicates()
-        edge_df_ = pd.merge(edge_df_, edge_df, on=["source", "target"]).drop_duplicates(subset=["source", "target"])
-        return edge_df_
+#         edge_df_ = edge_df.copy()
+#         edge_df_.drop("edge_type", axis=1, inplace=True)
+#         edge_df_.source = edge_df_.source.astype(str)
+#         edge_df_.target = edge_df_.target.astype(str)
+#         edge_df_ = pd.DataFrame(np.sort(edge_df_.values, axis=1), index=edge_df_.index, columns=edge_df_.columns).drop_duplicates()
+#         edge_df_ = pd.merge(edge_df_, edge_df, on=["source", "target"]).drop_duplicates(subset=["source", "target"])
+        return edge_df
     
     def batch_embedding(self, metadata_dict, embedding_nodeId_list="all", ncores=1, nbatch=1, alpha=0.85):       
         time_start = time.time()
