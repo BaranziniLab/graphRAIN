@@ -8,3 +8,4 @@ backend/.ipynb_checkpoints
 metadata/__pycache__
 notes.txt
 run_rain_custom.py
+logs/
